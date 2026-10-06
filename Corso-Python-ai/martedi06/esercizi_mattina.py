@@ -1,6 +1,6 @@
 #esercizio 1 
 
-
+'''
 x = int(input("dammi un numero"))
 
 if x == 10:
@@ -49,8 +49,59 @@ elif operazione == 3:
 else :
     
     print("operazione non valida")    
-    
+    '''
 
-# esercizio 3
+# esercizio mattina 
+
+
+listap = ["mare","perer","acqua", "pomodoro"]
+listan= [1,2,3,4,5,6]
+
+print(listap, '\n')
+print(listan, '\n')
+
+scelta = int(input("1 l1 2 l2"))
+
+
+
+if scelta ==1 :
+    sceltap = int(input("op 1 aggiungere 2 modificare"))
+    
+    if sceltap == 1:
+        p = input("cosa vuoi aggiunere")
+        listap.append(p) 
+        print(listap)  
+    
+    elif sceltap ==2:
+         print(listap)
+         elemento_indice =  int(input("dammi l'indice da modificare"))
+         elemento = input("dammi l'elemento")
+         listap[elemento_indice] = elemento
+    
+    else:
+        print("scelta non v")
+         
+elif scelta == 2:
+    
+    sceltan = int(input("op 1 aggiungere 2 eliminare"))
+    
+    if sceltan == 1:
+          pn = int(input("cosa vuoi aggiunere"))
+          listan.append(pn) 
+          print(listan)  
+        
+    elif sceltan == 2:
+         
+         print(listan)
+         elemento_r = int(input("dammi l'elemento che vuoi rimuovere"))
+         listan.remove(elemento_r)
+         print(listan)
+
+    else:
+        print("scelta non v")
+                
+else :
+    print("scelta non v")
+
 
 
