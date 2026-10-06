@@ -52,7 +52,7 @@ else :
     '''
 
 # esercizio mattina 
-
+'''
 
 listap = ["mare","perer","acqua", "pomodoro"]
 listan= [1,2,3,4,5,6]
@@ -104,4 +104,49 @@ else :
     print("scelta non v")
 
 
+'''
 
+
+#esercizio pomeriggio 1
+
+eta = int(input("dammi la tua eta: "))
+
+maggiorenne = eta >= 18
+
+#print(maggiorenne)
+
+
+match maggiorenne:
+    
+    case True: 
+        print("sei maggiorenne gurada")
+    case False:
+        print("non puoi guardare")
+        
+        
+        
+#esercizio 2
+numero1 = int(input("dammi il primo numero: "))
+
+numero2 = int(input("dammi il secondo numero: "))
+
+
+op = input("dammi l'operazione: ")
+
+match op:
+    
+    case "+":
+        print(numero1+numero2)
+    case "-":
+        print(numero1-numero2)
+    case "*":
+        print(numero1*numero2)
+    case "/":
+        if numero2 == 0:
+            print("non puoi dividere per 0")
+        else:
+            print(numero1/numero2)
+    case "%":
+        print(numero1%numero2)
+    case _:
+        print("op non valida")
