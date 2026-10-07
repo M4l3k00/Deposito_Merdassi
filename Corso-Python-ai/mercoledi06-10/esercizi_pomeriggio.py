@@ -86,4 +86,4 @@ while r :
                 c += 1  
             s = int(input("vuoi fare altre operazioni 1 si 2 no: "))
             if s == 0:
-                r = False             
+                r = False    #errato         
