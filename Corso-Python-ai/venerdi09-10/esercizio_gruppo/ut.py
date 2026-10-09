@@ -1,3 +1,5 @@
+import random as r
+
 lista_username = []
 lista_password = []
 
@@ -60,8 +62,16 @@ def login(username, pas):
     
     
     
-    
-    
+def indovina_numero(n):
+           
+           x = r.randint(1,10)
+           print("indovina il numero da 1 a 10\n")
+           
+           while n!= x:
+               print("tenta di nuovo: ")
+               n = int(input("inserisci di nuovo: "))
+               
+           return "hai indovinato"    
 
 
 #print(calcolatrice(3,"+",2))
