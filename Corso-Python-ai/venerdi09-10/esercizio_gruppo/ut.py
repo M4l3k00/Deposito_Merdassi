@@ -1,4 +1,5 @@
 lista_username = []
+lista_password = []
 
 def calcolatrice(n1,op,n2):
     
@@ -43,9 +44,27 @@ def regi(username, pas, rpas):
     
     elif len(pas)<3:
         return "password troppo corta"
-
+    
+    lista_username.append(username)
+    lista_password.append(pas)
     return "registrazione completata"    
 
 
+def login(username, pas):
+    
+    if username in lista_username and pas in lista_password and lista_username.index(username) == lista_password.index(pas):
+        
+        return f"benvenuto {username} accesso effettuato\n"
+    else:
+        return "credenziali errate"
+    
+    
+    
+    
+    
+
+
 #print(calcolatrice(3,"+",2))
+
+
    
