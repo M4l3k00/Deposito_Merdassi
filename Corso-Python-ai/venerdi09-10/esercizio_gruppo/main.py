@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import ut
 
 scelta=input("")
@@ -22,3 +23,9 @@ while scelta!= "stop":
           print("hai sbagliato")
 
     
+=======
+import ut as u
+
+
+
+>>>>>>> 3ad5e5ebfa8f250e5d44548e3ab895b37ab6ea6f
