@@ -36,7 +36,7 @@ while con:
             print(m.divisione(n1,n2))
             
         case 5:
-            con: False
+            con= False
             
         case _:
             print("ko")
