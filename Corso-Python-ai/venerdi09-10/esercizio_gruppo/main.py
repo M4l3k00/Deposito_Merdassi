@@ -21,3 +21,7 @@ while scelta!= "stop":
 
     else: 
           print("hai sbagliato")
+          
+          
+          
+          #dfghoiashfgois
