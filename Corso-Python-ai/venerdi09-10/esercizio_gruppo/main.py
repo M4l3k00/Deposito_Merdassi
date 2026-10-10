@@ -1,5 +1,5 @@
+import ut 
 
-import ut as ut
 scelta=input("")
 
 #condizione che si fermera' all'input stop dell'utente 
@@ -22,7 +22,5 @@ while scelta!= "stop":
     
     else: 
           print("hai sbagliato")
-          
-          
-          
-          #dfghoiashfgois
+
+    
