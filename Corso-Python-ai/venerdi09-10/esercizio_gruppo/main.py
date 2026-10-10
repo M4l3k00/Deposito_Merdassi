@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import ut as ut
 scelta=input("")
 
@@ -26,7 +26,3 @@ while scelta!= "stop":
           
           
           #dfghoiashfgois
-=======
-#Nella prima parte del menu devo richiamare le funzioni di ut
-#
->>>>>>> d79584c329f5a7b1a6e1d1209a0a2d55083d1f60
