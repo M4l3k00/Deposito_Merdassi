@@ -30,7 +30,7 @@ def decoratore_avviso(funzione):
 # --- PROGRAMMA PRINCIPALE ---
 
 # Chiede all'utente di inserire la scelta iniziale del menu o 'stop' per uscire
-scelta = input("Scegli un numero da 1 a 5 oppure stop: ")
+scelta = input("Scegli un numero da 1 a 6" " oppure stop: ")
 
 # Condizione che si fermera' all'input stop dell'utente 
 while scelta != "stop":
@@ -99,6 +99,17 @@ while scelta != "stop":
                 print("Numero pari:",pari)
                 print("Numero dispari:",dispari)
             esegui()
+
+
+        case "6": #somma dei numeri pari e dispari
+            @ut.somma_num_pari_dispari
+            def esegui():
+                #n3 = int(input("Inserisci il primo numero: "))
+                #n4 = int(input("Inserisci il secondo numero: "))
+                listar= [1,2,3,4,5,6]
+            
+                return ut.somma_num_pari_dispari()
+            esegui()
             
         #Interrompe il programma se l'utente digita 'stop'
         case "stop":
@@ -110,6 +121,7 @@ while scelta != "stop":
     
     #Chiede di nuovo all'utente un nuovo input all'interno del ciclo per continuare o uscire
     scelta = input("Scegli un numero da 1 a 5 oppure stop: ")
+
 
 
 

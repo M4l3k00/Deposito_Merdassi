@@ -109,9 +109,22 @@ def pari_dispari(lista_numeri):
             lista_dispari.append(n)
     
     # Stampa i risultati all'interno della funzione
-    print("Numeri pari:", lista_pari)
-    print("Numeri dispari:", lista_dispari)
+    return  lista_pari, lista_dispari
         
+
+def somma_num_pari_dispari (funzioni):
+    def coperta (*args, **kwargs):
+        liste= funzioni (*args,**kwargs)
+        lista_pari,lista_dispari= liste
+        somma_pari, somma_dispari=0, 0
+        for i in lista_pari:
+            somma_pari= somma_pari+i
+        for i in lista_dispari:
+            somma_dispari= somma_dispari+i
+
+        return somma_pari, somma_dispari 
+    return coperta
+
 
 
    
