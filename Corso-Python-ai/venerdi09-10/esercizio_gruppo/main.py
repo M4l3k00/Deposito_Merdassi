@@ -100,6 +100,34 @@ while scelta != "stop":
                 print("Numero dispari:",dispari)
             esegui()
             
+            
+        case "6":
+            
+            @ut.somma_num_pari_dispari
+            def esegui():
+                listar = []
+                
+                dimensione = int(input("dammi la dimensione della lista: "))
+                
+                while len(listar)<dimensione:
+                    
+                    elemento = int(input("scrivi un numero: "))
+                    listar.append(elemento)
+                
+                #listar = [1, 2, 3, 4, 5, 6]
+                return ut.pari_dispari(listar)
+
+            somma_pari, somma_dispari = esegui()
+
+            print("Somma dei numeri pari:", somma_pari)
+            print("Somma dei numeri dispari:", somma_dispari)
+            
+        case "7":
+            #n = int(input("inserisci un numero: "))
+            m = int(input("dammi un numero"))
+            for numero in ut.genera_pari(m):
+                print(numero)
+            
         #Interrompe il programma se l'utente digita 'stop'
         case "stop":
             print("Grazie per aver usato il programma")
@@ -109,4 +137,4 @@ while scelta != "stop":
             print("hai sbagliato")
     
     #Chiede di nuovo all'utente un nuovo input all'interno del ciclo per continuare o uscire
-    scelta = input("Scegli un numero da 1 a 5 oppure stop: ")
+    scelta = input("Scegli un numero da 1 a 7 oppure stop: ")
