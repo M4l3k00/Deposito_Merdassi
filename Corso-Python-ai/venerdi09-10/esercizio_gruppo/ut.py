@@ -89,7 +89,24 @@ def indovina_numero(n):
                # Legge il nuovo input numerico inserito dall'utente e lo converte in intero
                n = int(input("inserisci di nuovo: "))
                
-           return "hai indovinato"    
+           return "hai indovinato" 
+    
+    #[1,4,6,7]   
+#davide questa deve prendere in input una lista       
+def pari_dispari(lista_numeri):
+    
+    lista_pari=[]
+    lista_dispari=[]
+    
+    for n in lista_numeri:
+        
+        if n%2 == 0:
+            lista_pari.append(n)
+        else:
+            lista_dispari.append(n)
+            
+    return f"questa è la lista dei numeri pari: {lista_dispari}, questa è la lista dei numeri pari:  {lista_dispari}"
+            
 
 # Definisce la funzione per pari e dispari
 def pari_dispari(lista_numeri):

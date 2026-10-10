@@ -22,7 +22,7 @@ def decoratore_avviso(funzione):
         print("-> [AVVISO]: Stiamo eseguendo l'azione...")
         # Esegue la funzione originale e salva il risultato
         risultato = funzione(*args, **kwargs)
-        # Stampa un messaggio di avviso quando l'azione è completata
+        # Stampa un messaggio di avviso quando l'azione Ã¨ completata
         print("-> [AVVISO]: Azione completata!")
         return risultato
     return wrapper
@@ -120,8 +120,12 @@ while scelta != "stop":
             print("hai sbagliato")
     
     #Chiede di nuovo all'utente un nuovo input all'interno del ciclo per continuare o uscire
+<<<<<<< HEAD
     scelta = input("Scegli un numero da 1 a 5 oppure stop: ")
 
 
 
 
+=======
+    scelta = input("Scegli un numero da 1 a 5 oppure stop: ")
+>>>>>>> 7f3822e22e997a3f622996adc30806aab7dee2b9
