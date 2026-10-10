@@ -30,7 +30,7 @@ def decoratore_avviso(funzione):
 # --- PROGRAMMA PRINCIPALE ---
 
 # Chiede all'utente di inserire la scelta iniziale del menu o 'stop' per uscire
-scelta = input("Scegli un numero da 1 a 6" " oppure stop: ")
+scelta = input("Scegli un numero da 1 a 5 oppure stop: ")
 
 # Condizione che si fermera' all'input stop dell'utente 
 while scelta != "stop":
@@ -99,17 +99,34 @@ while scelta != "stop":
                 print("Numero pari:",pari)
                 print("Numero dispari:",dispari)
             esegui()
-
-
-        case "6": #somma dei numeri pari e dispari
+            
+            
+        case "6":
+            
             @ut.somma_num_pari_dispari
             def esegui():
-                #n3 = int(input("Inserisci il primo numero: "))
-                #n4 = int(input("Inserisci il secondo numero: "))
-                listar= [1,2,3,4,5,6]
+                listar = []
+                
+                dimensione = int(input("dammi la dimensione della lista: "))
+                
+                while len(listar)<dimensione:
+                    
+                    elemento = int(input("scrivi un numero: "))
+                    listar.append(elemento)
+                
+                #listar = [1, 2, 3, 4, 5, 6]
+                return ut.pari_dispari(listar)
+
+            somma_pari, somma_dispari = esegui()
+
+            print("Somma dei numeri pari:", somma_pari)
+            print("Somma dei numeri dispari:", somma_dispari)
             
-                return ut.somma_num_pari_dispari()
-            esegui()
+        case "7":
+            #n = int(input("inserisci un numero: "))
+            m = int(input("dammi un numero"))
+            for numero in ut.genera_pari(m):
+                print(numero)
             
         #Interrompe il programma se l'utente digita 'stop'
         case "stop":
@@ -120,12 +137,8 @@ while scelta != "stop":
             print("hai sbagliato")
     
     #Chiede di nuovo all'utente un nuovo input all'interno del ciclo per continuare o uscire
-<<<<<<< HEAD
-    scelta = input("Scegli un numero da 1 a 5 oppure stop: ")
+    scelta = input("Scegli un numero da 1 a 7 oppure stop: ")
 
 
 
 
-=======
-    scelta = input("Scegli un numero da 1 a 5 oppure stop: ")
->>>>>>> 7f3822e22e997a3f622996adc30806aab7dee2b9

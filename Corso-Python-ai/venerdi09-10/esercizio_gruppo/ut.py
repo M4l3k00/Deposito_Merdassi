@@ -89,58 +89,60 @@ def indovina_numero(n):
                # Legge il nuovo input numerico inserito dall'utente e lo converte in intero
                n = int(input("inserisci di nuovo: "))
                
-           return "hai indovinato" 
-    
-    #[1,4,6,7]   
-#davide questa deve prendere in input una lista       
-def pari_dispari(lista_numeri):
-    
-    lista_pari=[]
-    lista_dispari=[]
-    
-    for n in lista_numeri:
-        
-        if n%2 == 0:
-            lista_pari.append(n)
-        else:
-            lista_dispari.append(n)
-            
-    return f"questa è la lista dei numeri pari: {lista_dispari}, questa è la lista dei numeri pari:  {lista_dispari}"
-            
+           return "hai indovinato"    
 
 # Definisce la funzione per pari e dispari
 def pari_dispari(lista_numeri):
-    
-    # Inizializza due liste vuote per raccogliere i numeri pari e dispari
-    lista_pari=[]
-    lista_dispari=[]
-    
-    # Scorre ciclicamente ogni numero presente nella lista ricevuta in argomento
+    lista_pari = []
+    lista_dispari = []
+
     for n in lista_numeri:
-        # Controlla se il resto della divisione per 2 è zero (condizione di numero pari)
-        if n%2==0:
-            # Aggiunge il numero alla lista dei pari
+        if n % 2 == 0:
             lista_pari.append(n)
         else:
-            # Aggiunge il numero alla lista dei dispari
             lista_dispari.append(n)
-    
-    # Stampa i risultati all'interno della funzione
-    return  lista_pari, lista_dispari
+
+    return lista_pari, lista_dispari
+
+
+def somma_num_pari_dispari(funzione):
+    def coperta(*args, **kwargs):
         
+        lista_pari, lista_dispari = funzione(*args, **kwargs)
 
-def somma_num_pari_dispari (funzioni):
-    def coperta (*args, **kwargs):
-        liste= funzioni (*args,**kwargs)
-        lista_pari,lista_dispari= liste
-        somma_pari, somma_dispari=0, 0
+        somma_pari = 0
+        somma_dispari = 0
+
         for i in lista_pari:
-            somma_pari= somma_pari+i
-        for i in lista_dispari:
-            somma_dispari= somma_dispari+i
+            somma_pari += i
 
-        return somma_pari, somma_dispari 
+        for i in lista_dispari:
+            somma_dispari += i
+
+        return somma_pari, somma_dispari
+
     return coperta
+
+
+def genera_pari(n):
+    for i in range(0, n):
+        if i % 2 == 0:
+            yield i
+    
+   
+        
+        
+        '''for i in range(2, n):
+                    if n % i == 0:
+                        primo = False
+                        break
+        
+                if primo:
+                    print("numero primo", n)
+                    lista_risultati.append(n)
+                else:
+                    print(n, "non è primo")
+        print(lista_risultati)'''
 
 
 
