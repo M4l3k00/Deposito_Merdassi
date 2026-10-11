@@ -97,14 +97,22 @@ def indovina_numero(n):
 def pari_dispari(lista_numeri):
     lista_pari = []
     lista_dispari = []
+<<<<<<< HEAD
 #[1,2,3,4,5]
+=======
+
+>>>>>>> 7f0412b76040db79c4ad6b5bf51a479fd56ec38a
     for n in lista_numeri:
         if n % 2 == 0:
             lista_pari.append(n)
         else:
             lista_dispari.append(n)
 
+<<<<<<< HEAD
     return "lista pari: ",lista_pari, " lista dispari: ", lista_dispari
+=======
+    return lista_pari, lista_dispari
+>>>>>>> 7f0412b76040db79c4ad6b5bf51a479fd56ec38a
 
 
 def somma_num_pari_dispari(funzione):
@@ -116,7 +124,11 @@ def somma_num_pari_dispari(funzione):
         somma_dispari = 0
 
         for i in lista_pari:
+<<<<<<< HEAD
             somma_pari += i # somma_pari = somma_pari + i
+=======
+            somma_pari += i
+>>>>>>> 7f0412b76040db79c4ad6b5bf51a479fd56ec38a
 
         for i in lista_dispari:
             somma_dispari += i
@@ -124,6 +136,31 @@ def somma_num_pari_dispari(funzione):
         return somma_pari, somma_dispari
 
     return coperta
+<<<<<<< HEAD
+=======
+
+
+def genera_pari(n):
+    for i in range(0, n):
+        if i % 2 == 0:
+            yield i
+    
+   
+        
+        
+        '''for i in range(2, n):
+                    if n % i == 0:
+                        primo = False
+                        break
+        
+                if primo:
+                    print("numero primo", n)
+                    lista_risultati.append(n)
+                else:
+                    print(n, "non è primo")
+        print(lista_risultati)'''
+
+>>>>>>> 7f0412b76040db79c4ad6b5bf51a479fd56ec38a
 
 
 def genera_pari(n):

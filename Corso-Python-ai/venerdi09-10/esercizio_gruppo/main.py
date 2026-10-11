@@ -129,6 +129,7 @@ while scelta != "stop":
             
         case "7":
             #n = int(input("inserisci un numero: "))
+<<<<<<< HEAD
             n = int(input("dammi un numero"))
             #ut.genera_pari(m)
             
@@ -136,6 +137,11 @@ while scelta != "stop":
                 print(i)
             
             
+=======
+            m = int(input("dammi un numero"))
+            for numero in ut.genera_pari(m):
+                print(numero)
+>>>>>>> 7f0412b76040db79c4ad6b5bf51a479fd56ec38a
             
         #Interrompe il programma se l'utente digita 'stop'
         case "stop":
@@ -145,4 +151,12 @@ while scelta != "stop":
             print("hai sbagliato")
     
     #Chiede di nuovo all'utente un nuovo input all'interno del ciclo per continuare o uscire
+<<<<<<< HEAD
     scelta = input("Scegli un numero da 1 a 7 oppure 'stop': ")
+=======
+    scelta = input("Scegli un numero da 1 a 7 oppure stop: ")
+
+
+
+
+>>>>>>> 7f0412b76040db79c4ad6b5bf51a479fd56ec38a
