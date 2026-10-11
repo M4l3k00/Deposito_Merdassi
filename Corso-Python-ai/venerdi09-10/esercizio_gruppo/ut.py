@@ -4,6 +4,7 @@ import random as r
 lista_username = []
 lista_password = []
 
+
 # Definisce la funzione calcolatrice che accetta due numeri e l'operatore
 def calcolatrice(n1,op,n2):
     
@@ -14,7 +15,7 @@ def calcolatrice(n1,op,n2):
     elif op == "-":
         return n1-n2
     
-    elif op == "*":
+    elif op == "*" or op == "x" or op == "X":
         return n1*n2
     
     # Controlla se l'operatore è la divisione (sia con lo slash che con i due punti)
@@ -27,7 +28,7 @@ def calcolatrice(n1,op,n2):
         return n1/n2 
     
     # Controlla se l'operatore scelto è l'esponenziale (potenza)
-    elif op == "^":
+    elif op == "^" or op =="°":
         # Restituisce il primo numero elevato alla potenza del secondo
         return n1**n2
     
@@ -51,7 +52,7 @@ def regi(username, pas, rpas):
     # Controlla se uno qualsiasi dei campi di input è vuoto
     elif not username or not pas or not rpas:
         
-        return "tutti i campo sono obbligatori"
+        return "tutti i campi sono obbligatori"
     
     # Controlla se la lunghezza della password è inferiore a 3 caratteri
     elif len(pas)<3:
@@ -75,7 +76,8 @@ def login(username, pas):
     else:
         return "credenziali errate"
     
-    
+    # lista = [mario, luca, francesco]
+    # lista2 = [bbb, aaa, ccc]
 # Definisce la funzione per indovinare un numero casuale
 def indovina_numero(n):
            
@@ -95,14 +97,14 @@ def indovina_numero(n):
 def pari_dispari(lista_numeri):
     lista_pari = []
     lista_dispari = []
-
+#[1,2,3,4,5]
     for n in lista_numeri:
         if n % 2 == 0:
             lista_pari.append(n)
         else:
             lista_dispari.append(n)
 
-    return lista_pari, lista_dispari
+    return "lista pari: ",lista_pari, " lista dispari: ", lista_dispari
 
 
 def somma_num_pari_dispari(funzione):
@@ -114,7 +116,7 @@ def somma_num_pari_dispari(funzione):
         somma_dispari = 0
 
         for i in lista_pari:
-            somma_pari += i
+            somma_pari += i # somma_pari = somma_pari + i
 
         for i in lista_dispari:
             somma_dispari += i
@@ -125,11 +127,15 @@ def somma_num_pari_dispari(funzione):
 
 
 def genera_pari(n):
-    for i in range(0, n):
+    for i in range(1, n+1):
         if i % 2 == 0:
             yield i
-    
-   
+            
+            
+#7 d
+ #1   
+   #2
+    #3
         
         
         '''for i in range(2, n):
@@ -143,3 +149,5 @@ def genera_pari(n):
                 else:
                     print(n, "non è primo")
         print(lista_risultati)'''
+        
+       

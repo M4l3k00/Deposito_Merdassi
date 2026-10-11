@@ -27,10 +27,11 @@ def decoratore_avviso(funzione):
         return risultato
     return wrapper
 
+
 # --- PROGRAMMA PRINCIPALE ---
 
 # Chiede all'utente di inserire la scelta iniziale del menu o 'stop' per uscire
-scelta = input("Scegli un numero da 1 a 5 oppure stop: ")
+scelta = input("Scegli un numero da 1 a 7 oppure stop: ")
 
 # Condizione che si fermera' all'input stop dell'utente 
 while scelta != "stop":
@@ -39,7 +40,7 @@ while scelta != "stop":
     match scelta:
         case "1": #Gestione della calcolatrice
             # Applica il decoratore della cornice alla funzione interna 'esegui'
-            @decoratore_cornice
+            @decoratore_cornice #sovvrascriviamo
             def esegui():
                 # Chiede all'utente di inserire il primo numero convertendolo in float
                 n1 = float(input("Inserisci il primo numero: "))
@@ -90,14 +91,18 @@ while scelta != "stop":
         case "5": #Gestione della funzione pari e dispari
             @decoratore_cornice
             def esegui():
+                
+                list_numeri = []
                 # Chiede il primo e il secondo numero intero da inserire nella lista
-                n1 = int(input("Inserisci il primo numero: "))
-                n2 = int(input("Inserisci il secondo numero: "))
+                n1 = int(input("Inserisci la dimensione della lista: "))
+                while len(list_numeri)<n1:
+                    n2 = int(input("inserisci i numeri: "))
+                    list_numeri.append(n2)
+                    #[1,2,3,4,5]
                 #Salviamo i risultati della funzione in due variabili separate
-                pari, dispari = ut.pari_dispari([n1, n2])
+                print(ut.pari_dispari(list_numeri))
                 #Stampiamo l'elenco dei numeri pari identificati
-                print("Numero pari:",pari)
-                print("Numero dispari:",dispari)
+                
             esegui()
             
             
@@ -124,17 +129,20 @@ while scelta != "stop":
             
         case "7":
             #n = int(input("inserisci un numero: "))
-            m = int(input("dammi un numero"))
-            for numero in ut.genera_pari(m):
-                print(numero)
+            n = int(input("dammi un numero"))
+            #ut.genera_pari(m)
+            
+            for i in ut.genera_pari(n):
+                print(i)
+            
+            
             
         #Interrompe il programma se l'utente digita 'stop'
         case "stop":
             print("Grazie per aver usato il programma")
-            break # Esce immediatamente dal ciclo while terminando il programma
-
+          
         case _: #Gestisce qualsiasi input errato inserito dall'utente
             print("hai sbagliato")
     
     #Chiede di nuovo all'utente un nuovo input all'interno del ciclo per continuare o uscire
-    scelta = input("Scegli un numero da 1 a 7 oppure stop: ")
+    scelta = input("Scegli un numero da 1 a 7 oppure 'stop': ")
