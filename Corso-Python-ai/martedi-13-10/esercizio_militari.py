@@ -117,6 +117,8 @@ print(f1.costruisci_trincea())
 
 print(a1.calibra_arteglieria())
 
+print(repr(f1))
+
         
                     
         
