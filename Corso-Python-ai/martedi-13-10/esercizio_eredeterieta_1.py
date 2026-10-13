@@ -3,7 +3,7 @@ class Animale:
         self.nome = nome
         self.eta = eta
         
-    def fai_suono():
+    def fai_suono(self):
         print("suono generico di un animale\n")
         
 
