@@ -215,3 +215,8 @@ if __name__ == "__main__":
     officina.chiudi_ticket(2)
     officina.stampa_tickets_aperti()
     print(f"Totale preventivi: {officina.totale_preventivi()}")
+    
+    
+    
+    
+    
