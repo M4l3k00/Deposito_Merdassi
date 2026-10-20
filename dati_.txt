@@ -1,0 +1,17 @@
+somma di array di numeri casuali da 1 a 99: 696
+media di array di numeri casuali da 1 a 99: 46.4
+stampa di array di numeri casuali da 1 a 99: [37 54 14 60 26 34 78 61 52 81 57  4 39 55 44]
+seconda colonna della matrice 5x5: [83 82 51 93 11]
+terza riga della matrice 5x5: [84 51 36 93 50]
+diagonale della matrice 5x5: [74 82 36 97 51]
+stampa della matrice 5x5: [[74 83  1 21 11]
+ [73 82 60 69 90]
+ [84 51 36 93 50]
+ [13 93 80 97 68]
+ [61 11 63 71 51]]
+stampa della matrice 4x4: [[26 20 42 35]
+ [42 35 32 22]
+ [49 35 37 49]
+ [36 17 31 19]]
+elementi 0,1: 20 1,3: 22 2,2: 37 3,0: 36prima riga matrice 4x4: [26 20 42 35]
+terza riga matrice 4x4: [36 17 31 19]
