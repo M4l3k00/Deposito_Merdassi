@@ -1,0 +1,11 @@
+,id,nome,cognome,eta,classe,media_voti,materia_preferita,media_alta
+0,1,Luca,Rossi,19,3A,7.8,Informatica,True
+1,2,Giulia,Bianchi,21,2B,8.6,Matematica,True
+2,3,Marco,Verdi,20,3A,6.9,Storia,False
+3,4,Sara,Romano,22,4C,9.1,Inglese,True
+4,5,Alessandro,Conti,18,2B,7.2,Scienze,True
+5,6,Francesca,Esposito,23,5A,8.0,Italiano,True
+6,7,Matteo,Ricci,20,3B,6.5,Fisica,False
+7,8,Chiara,Marino,19,3A,9.4,Arte,True
+8,9,Andrea,Greco,24,5A,7.7,Educazione fisica,True
+9,10,Sofia,Gallo,21,4C,8.8,Geografia,True

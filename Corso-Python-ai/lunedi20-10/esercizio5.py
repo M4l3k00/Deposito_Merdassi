@@ -8,7 +8,7 @@ print("Creare una nuova matrice 2D di dimensioni specificate da utente con numer
 righe = int(input("dammi il numero delle righe: "))
 colonne = int(input("dammi il numero delle colonne : "))
 n1 = int(input("dammi il numero : "))
-n2 = int(input("dammi il numero  : "))                        
+n2 = int(input("dammi il numero  : "))
 matrice = np.random.randint(n1,n2,size=(righe,colonne))
 print(matrice)
 
@@ -50,11 +50,13 @@ while ripetibile:
             
         case 4:
             ripetibile = False
+           
+                
             break
         
         case 5:
             n1 = int(input("dammi il numero : "))
-            n2 = int(input("dammi il numero  : "))                        
+            n2 = int(input("dammi il numero  : "))
             matrice2 = np.random.randint(n1,n2,size=(righe,colonne))
             print(matrice2)
             
