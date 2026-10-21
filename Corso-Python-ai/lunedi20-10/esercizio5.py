@@ -9,6 +9,7 @@ righe = int(input("dammi il numero delle righe: "))
 colonne = int(input("dammi il numero delle colonne : "))
 n1 = int(input("dammi il numero : "))
 n2 = int(input("dammi il numero  : "))
+
 matrice = np.random.randint(n1,n2,size=(righe,colonne))
 print(matrice)
 

@@ -112,4 +112,42 @@ class GestoreFlotta:
       for veicolo in self.listaVeicoli:
           print("targa: ", veicolo._targa, " Peso massimo", veicolo._pesoMassimo, " Carico attuale", veicolo._caricoAttuale)
           
+        
+        
+
+menu = True
+
+while menu:
+    
+    print("===================================================================================================\n")
+    print("==================================== GESTIONE FLOTTA TRASPORTI ====================================\n")
+    print("===================================================================================================\n")
+    print("")
+    print("1 - Aggiungi Veicolo (Camion, Furgone, Motocarro)")
+    print("2 - Rimuovi Veicolo per Targa")
+    print("3 - Carica / Scarica Veicolo")
+    print("4 - Visualizza Elenco Veicoli")
+    print("5 - Calcola Costo Totale Manutenzione")
+    print("6 - Esci")
+
+    scelta = int(input("Scegli un'opzione (1-6): "))
+    
+    
+    match scelta:
+        
+        case 1:
+            scelta_veicolo=int(input("che tipo di veicolo vuoi aggiungere 1 camio 2 furgone 3 motocarro"))
+            match scelta_veicolo:
+                case 1:
+                    targa = input("dammi la targa: ")
+                    pesoMassimo = int(input("dammi il peso massimo: "))
+                    numero_assi
+                    
+                    camion = Camion(targa, pesoMassimo, numero_assi)
+    
+    
+    
+    
+    
+          
     
