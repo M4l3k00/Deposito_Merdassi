@@ -1,0 +1,1 @@
+fase di esplorazione: i dataset non hanno righe duplicate o valori nulli, per adesso possiamo procedere
