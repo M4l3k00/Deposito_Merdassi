@@ -21,7 +21,8 @@ ds_fornitori = pd.read_csv("Corso-Python-ai/esercizio-gruppo-23-10/dati-sporchi/
      
     
 print("=============================================FORNITORI==============================================")
- 
+#ELIMINAZIONE DEI DUPLICATI PER FORNITORI
+ds_fornitori = ds_fornitori.drop_duplicates()
 esplora_data_set(ds_fornitori)  
     
     
