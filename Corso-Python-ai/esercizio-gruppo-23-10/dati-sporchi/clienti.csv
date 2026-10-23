@@ -1,0 +1,243 @@
+id_cliente,nome,cognome,email,telefono,citta,cap,data_registrazione,data_nascita,genere,newsletter
+C0162,MARTINA, FERRARI  ,martina.ferrari18@hotmail.it,397886454,Bologna,40100,28/10/2023,20-07-83,F,Y
+C0081,MARTINA,Gallo,martina.gallo80@libero.it,358242190,BOLOGNA,40100,2022-05-18,1978-02-05,2,s
+C0186,	gIORGIO  ,mancini,giorgio.mancini20@pec.it,3944908850,Firenze,50100,2022/02/07,14/09/1962,female,Si
+C0125,	Ilaria,	GIORDANO,ilaria.giordano63@gmail.com,00393574229821,Bologna,40100,2023-06-11,22/05/1957,male,
+C0184,aNDREA,  Bianchi  ,andrea.bianchi51@hotmail.it,320964669,Bari,70100,2024/08/20,08/01/1994,male,No
+C0004,Alessandro,	Barbieri  ,alessandro.barbieri88@yahoo.it,396-2065818,Napoli,80100,26/01/2023,18-06-03,F,NO
+C0121,Giorgio,Rizzo, giorgio.rizzo91@gmail.com ,(365) 9059269,bari,7010,08-08-23,08/11/2009,n.d.,Y
+C0105,Valentina,Bianchi,valentina.bianchi73@hotmail.it,3942681144,null,n.d.,31/07/2023,1959-01-23,female,False
+C0157,Francesca,fontana, francesca.fontana55@outlook.com ,00393644195887,Catanzaro,88100,12/19/2022,13/04/2003,MASCHIO,No
+C0063, SARA  ,MORETTI,sara.moretti55@hotmail.it,361-2455218,CATANZARO,88100,17-11-23,23/07/1958,MASCHIO,No
+C0027,Roberto,Greco,roberto.greco91@outlook.com,373-9094999,FIRENZE,50100,2022/09/07,24/12/1990,M,NO
+C0199,eLISA,MARTINI,elisa.martini94@yahoo.it,+39 337 2444148,CATANZARO,88100,01/08/2022,16/03/1977,Femmina,n
+C0321,ILARIA,Giordano,ILARIA.GIORDANO63@GMAIL.COM,00393574229821,Bologna,40100,2023-06-11,22/05/1957,male,
+C0138,Elena,Bruno,elena.bruno66@outlook.com,388519667,Roma,00100.0,30/03/2023,31-10-83,F,s
+C0218,  mARTINA  ,Romano,martina.romano16@gmail.com,387-8300752,Palermo,90100,2024-04-27,07/06/2010,F,
+C0114,Francesca,GRECO,francesca.greco14@yahoo.it,00393454351238,Roma,00100,01/05/2024,07/12/1996,F,SI
+C0057,giorgio,Mancini,giorgio.mancini36@hotmail.it,+39 398 2993318,Firenze,50100,25/09/2024,04/09/1958,f,Y
+C0061,SILVIA,MARIANI,silvia.mariani31@libero.it,+39 326 9909397,Palermo,90100,2023-10-16,11/21/1970,2,0
+C0029,Paola,Bruno,PAOLA.BRUNO49@OUTLOOK.COM,(382) 1602286,Firenze,50100,2022-03-12,23-01-71,2,si
+C0151,lAURA,  Ferrara  ,laura.ferrara25@hotmail.it,(383) 3585897,Catanzaro,88100,2022-10-17,10/12/1978,female,s
+C0183,Sara,rINALDI,sara.rinaldi36@gmail.com,00393687519465,Rome,XXXXX,03/03/2022,02-03-73,2,0
+C0068,Claudia,ROMANO,claudia.romano72@yahoo.it,326677832,Catanzaro,88100,19/11/2023,12-03-84,X,0
+C0129,Andrea, Ferrara  ,andrea.ferrara18@pec.it,362-9052291,Bari,null,02-04-23,09 mar 1982,1,true
+C0018,RICCARDO,  DE LUCA,riccardo.deluca11@yahoo.it,00393221873851,lecce,73100,18/08/2022,04/29/2008,Femmina,n
+C0074,Elisa,GALLO,elisa.gallo13@yahoo.it,00393492275374,Milano,20100,09/12/2023,2005-01-27,MASCHIO,False
+C0154,Giorgio, Bianchi ,giorgio.bianchi1outlook.com,00393484604128,LECCE,73100,2022-01-23,04/10/1974,X,NO
+C0036,Daniele,Ferrari,daniele.ferrari78@libero.it,00393283117143,Bari,70100,02/10/2023,18-10-06,2,Y
+C0089,  Elena ,BARBIERI,elena.barbieri99yahoo.it,3747749095,FIRENZE,50100,18-10-23,1998/02/20,MASCHIO,s
+C0005, sILVIA ,	colombo  ,silvia.colombo48@libero.it,3899897858,NAPOLI,80100,06.09.2023,1979-01-30,M,Si
+C0181,Davide,GIORDANO,davide.giordano13@hotmail.it,(365) 8244164,Milano,20100,29-07-24,,F,true
+C0016,sara,mariani,sara.mariani58@outlook.com,(351) 5652512,bologna,40100,12-05-23,25-03-06,F,1
+C0070,  Stefano  ,esposito,stefano.esposito98@outlook.com,00393467219396,Bologna,040100,2023-02-28,1954/02/07,Femmina,true
+C0035,	FRANCESCA ,Fontana,francesca.fontana17@gmail.com,(365) 4991829,Milano,n.d.,28/11/2022,1951-06-02,female,si
+C0037,Alessandro,Fontana,alessandro.fontana9@gmail.com,330-2564141,Bologna,40100,2022/04/09,07 jun 1983,altro,si
+C0112,Antonio,MARIANI,antonio.mariani29@pec.it,+39 364 6236039,Torino,10100,2022-04-16,N/A,M,No
+C0212,	CLAUDIA ,, claudia.deluca94@pec.it ,+39 327 9762229,Palermo,null,2023/01/09,29/06/1991,m,s
+C0203,cHIARA,BIANCHI,CHIARA.BIANCHI89@LIBERO.IT,+39 359 3102926,napoli,80100,2030-05-12,19/01/1957,F,NO
+C0130,chiara,Martini,chiara.martini94@outlook.com,(337) 8796391,N/A,90100,07/06/2023,02/15/1958,MASCHIO,
+C0049,luca,Santoro,luca.santoro5@outlook.com,+39 345 1734947,Bologna,40100,26 jun 2024,05/10/1953,MASCHIO,No
+C0009,valentina,fontana,valentina.fontana73@hotmail.it,+39 360 5374922,PALERMO,90100,2023-11-17,10/03/1978,male,no
+C0090,Elisa, ROMANO,elisa.romano2pec.it,+39 337 1190431,Roma,00100,24/05/2023,1981/02/07,m,true
+C0106,,Santoro,paola.santoro30@libero.it,00393588434162,Roma,00100,03/10/2022,1987/05/23,F,NO
+C0078,Federica,lombardi,federica.lombardi69@hotmail.it,00393731616817,Catanzaro,88100,ieri,03-03-98,X,No
+C0097,claudia,LOMBARDI,claudia.lombardi42@yahoo.it,3544016809,Firenze,50100,23.11.2022,28/07/2003,MASCHIO,no
+C0202,Valentina,, valentina.bruno14@libero.it ,+39 339 9445363,Napoli,80100,2024-05-01,00/00/0000,F,
+C0205,Fabio, bruno ,fabio.bruno60@gmail.com,386-3280231,Roma,00100,20.02.2024,1982-05-30,male,1
+C0079,ROBERTO,giordano,roberto.giordano45@gmail.com,00393812754047,Napoli,80100,2023-03-02,14-09-57,f,SI
+C0099, alessandro , RINALDI,alessandro.rinaldi68@outlook.com,329726781,Roma,00100,22/08/2024,27.05.2009,altro,False
+C0050,Andrea,n.d.,andrea.caruso94@yahoo.it,(330) 8224389,Roma,00100,2024-04-22,11/03/1966,1,No
+C0134,Daniele,N/A,daniele.moretti1@pec.it,375-9758448,Firenze,50100,2023/01/15,1953-11-24,,Si
+C0207,	Alessandro  ,-,alessandro.rinaldi14@gmail.com,352-9209786,BOLOGNA,91522,25/08/2022,17/05/2006,X,true
+C0133,Silvia,Costa,silvia.costa22@libero.it,(372) 3394312,BOLOGNA,40100,20/04/2024,26/04/1966,1,true
+C0344,DANIELE,Santoro,DANIELE.SANTORO70@GMAIL.COM,367-3484601,napoli,80100,2022-05-11,NULL,female,n
+C0082,  sIMONE  ,rizzo,simone.rizzo84@yahoo.it,372-9249791,FIRENZE,50100,2023/12/29,1989-10-27,male,SI
+C0143,Stefano,mARTINI,stefano.martini49@hotmail.it,356878046,Roma,000100,06/09/2024,30-12-62,altro,NO
+C0043,GIORGIO,bARBIERI,giorgio.barbieri6@libero.it,(376) 8372274,Napoli,80100,20/06/2023,16/09/2004,MASCHIO,1
+C0149,  Andrea  ,	LOMBARDI ,andrea.lombardi51@libero.it,(321) 1704531,Roma,00100,13-03-24,21/08/1992,MASCHIO,Si
+C0026,Marco,fontana,marco.fontana60@yahoo.it,(326) 4147112,Firenze,50100,06/01/2023,10.11.2005,female,Y
+C0045, Anna  ,bRUNO,anna.bruno17@hotmail.it,+39 368 3587931,Palermo,90100,05-07-22,2006-01-18,male,no
+C0030,-,fONTANA,silvia.fontana64@hotmail.it,338-4895475,TORINO,10100,16/10/2023,14.10.1972,altro,NO
+C0193,Silvia,RIZZO,silvia.rizzo27@pec.it,330663202,PALERMO,9010,2024-08-12,1954/12/02,M,No
+C0171,ANNA,Bianchi,anna.bianchi93@gmail.com,378750265, ,10100.0,04/06/2024,1996/11/11,MASCHIO,no
+C0072,Sara,esposito,sara.esposito68@libero.it,(350) 4220085,Roma,,24-06-23,31/02/1990,MASCHIO,
+C0201,Daniele,Santoro,daniele.santoro46@libero.it,00393265574649, ,22387,2023/03/06,2007-01-30,1,No
+C0091,paolo,FONTANA,paolo.fontana30@pec.it,3851043092,Roma,00100,29-05-24,1951-02-07,f,no
+C0086,DANIELE,	Marino  ,DANIELE.MARINO84@OUTLOOK.COM,00393522382787,Roma,0010,12/11/2023,20/03/2008,MASCHIO,0
+C0001,Antonio,  eSPOSITO  ,antonio.esposito95@outlook.com,+39 351 4744854,Milano,36062,2024-01-25,1959-03-13,m,Y
+C0158,Elena,Mancini,elena.mancini3@outlook.com,+39 346 4554677,Bologna,40100,2023-07-14,11/12/1996,M,NO
+C0056,DAVIDE,colombo,davide.colombo64@hotmail.it,00393799367799,Naples,80100,25-05-23,1952-01-30,male,si
+C0315,ALESSANDRO,Mariani,ALESSANDRO.MARIANI70@OUTLOOK.COM,338600055,Catanzaro,88100,06/27/2024,17/02/2008,altro,n
+C0164,ANTONIO,MANCINI,antonio.mancini93@hotmail.it,(334) 4016063,Rome,000100,18-08-24,08/01/1999,F,n
+C0195,mATTEO,GIORDANO,matteo.giordano38@yahoo.it,389-3215051,Milano,20100,2022-12-22,10/09/1987,MASCHIO,Y
+C0144,CHIARA,FONTANA,chiara.fontana96@pec.it,+39 330 4532803,Lecce,073100,11/02/2023,NULL,Maschio,NO
+C0216,Riccardo,rinaldi,riccardo.rinaldi61@pec.it,372658215,Bologna,40100,09/03/2023,03/01/1959,MASCHIO,Si
+C0087, Daniele,greco,daniele.greco49@libero.i,(338) 2147756,Napoli,80100,31/07/2023,05 oct 1950,M,Y
+C0044,Simone,Bianchi,simone.bianchi91@gmail.com,359731963,Palermo,90100,2024-03-21,1979-06-21,M,no
+C0159,	Elena ,Galli,elena.galli30@yahoo.it,00393852671072,Catanzaro,88100,2023-05-12,27-07-03,M,No
+C0336,ANDREA,Colombo,ANDREA.COLOMBO4@HOTMAIL.IT,(331) 1954320,Milano,20100,2023-11-04,14.06.1969,2,SI
+C0059,Stefano,  BRUNO,stefano.bruno20@yahoo.it,(346) 7884990,Catanzaro ,88100,2024-03-04,11/09/2004,Femmina,true
+C0076,Sara,  dE lUCA ,sara.deluca54@outlook.com,00393812290526,Lecce ,73100,15 sep 2022,1972-02-15,Maschio,
+C0041,chiara, BRUNO  ,chiara.bruno10@hotmail.it,(334) 9902071,napoli,80100,18-07-22,06/05/1981,X,s
+C0136, ,Esposito,sara.esposito66@yahoo.it,+39 363 1873301,torino,10100,03-02-23,01/18/2007, ,False
+C0172,Martina,RIZZO,martina.rizzo35@libero.it,+39 356 5107483,bari,070100,14-03-22,08 dec 1977,MASCHIO,
+C0094,-, Colombo ,luca.colombo99@hotmail.it,3333607356,napoli,80100.0,2022/06/18,02-05-90,M,no
+C0148,RICCARDO, Rossi,riccardo.rossi99@pec.it,351-7455837,Roma,00100,11/09/2022,03-01-53,altro,true
+C0051, GIULIA ,bianchi,giulia.bianchi31@pec.it,366-7075878,Roma,00100,30-08-24,21/11/2000,F,si
+C0140,	Daniele ,mARTINI,daniele.martini36@yahoo.it,00393439575399,Palermo,90100,31/13/2023,04.12.1969,altro,true
+C0042,luca,  Costa,luca.costa81@outlook.com,00393551942411,Bologna,40100,2023-06-04,08/28/1956,altro,si
+C0102,claudia,  MARIANI ,claudia.mariani34@pec.it,+39 356 5989554,Firenze,50100,2022-04-09,15/06/1954,F,Si
+C0219,Stefano, FERRARI  ,stefano.ferrari61@libero.it,361766986,Milano,20100,32/01/2023,28-05-84,X,False
+C0185,Matteo,Romano,matteo.romano6@yahoo.it,344601421,,NULL,04/02/2023,1959-07-31,X,true
+C0003, chiara ,,chiara.romano49@outlook.com,391468453,BOLOGNA,40100,29 nov 2022,1955-01-07,m,Si
+C0065,Anna,cOLOMBO,anna.colombo63@gmail.com,3858473959,Palermo,90100,10-04-23,-,M,1
+C0139,Laura,	lEONE  , laura.leone61@outlook.com ,(365) 4666931,n.d.,80100,03/10/2022,26/05/1966,female,No
+C0131,Simone,Costa,simone.costa6@gmail.com,361273182,Bologna,40100,18 sep 2024,10/10/1996,,1
+C0181,Davide,GIORDANO,davide.giordano13@hotmail.it,(365) 8244164,Milano,20100,29-07-24,,F,true
+C0177,Marco,Ferrari,marco.ferrari19@pec.it,+39 382 8327199, MI,20100,2022/03/28,31/02/1990,F,Si
+C0033,antonio, Ferrari , antonio.ferrari90@outlook.com ,+39 372 2957497,Bologna,40100,02/16/2022,NULL,altro,n
+C0113,Sara,ESPOSITO,sara.esposito92@pec.it,324729468,BARI,70100,2022-09-19,1997-12-22,M,no
+C0093,FRANCESCA,Colombo,francesca.colombo31@yahoo.it,+39 382 2004872,Firenze,22527,30/12/2023,1975/02/08,F,False
+C0200,Chiara,  Rossi ,chiara.rossi20@outlook.com,3588927925,Milano,20100,2023-11-01,2009-09-28,null,False
+C0060,Elena,RINALDI,elena.rinaldi91@libero.it,382-6319061,Lecce,73100,12/24/2022,2000/04/14,m,si
+C0189,alessandro,Fontana,alessandro.fontana64@libero.i,3401723359,Bologna,40100,23/10/2023,1982/09/03,Femmina,true
+C0053,Simone,santoro,simone.santoro68@yahoo.it,+39 372 2237331,Bologna,XXXXX,2024-09-22,11 jun 1978,1,SI
+C0217,fabio, Bianchi ,fabio.bianchi88@yahoo.it,360-8574743,PALERMO,90100,13 jun 2024,23/12/1961,M,true
+C0210,davide, Conti ,davide.conti50@outlook.com,393-2639564,Palermo,90100,13-04-22,27.07.2010,F,
+C0014,Paolo,Greco,paolo.greco71@gmail.com,+39 358 5813613,Catanzaro,88100,17-03-23,12/01/2002,n.d.,s
+C0178,FRANCESCA,lOMBARDI,francesca.lombardi89@gmail.com,00393389831661,BOLOGNA,40100,22 apr 2023,1996-05-18,M,0
+C0173,LUCA,	ferrara ,luca.ferrara13@yahoo.it,359-8808058,Bologna,40100,2022-08-26,29/01/1970,Femmina,SI
+C0010, Giorgio,rossi,giorgio.rossi39@pec.it,00393333253031,Firenze,50100,29/04/2022,09 aug 1959,M,SI
+C0071,  FEDERICA,romano,federica.romano83@gmail.com, ,Firenze,50100,25-08-24,1900-01-01,female,0
+C0010, Giorgio,rossi,giorgio.rossi39@pec.it,00393333253031,Firenze,50100,29/04/2022,09 aug 1959,M,SI
+C0198,Chiara,Caruso,CHIARA.CARUSO26@GMAIL.COM,330847354,Lecce,73100,19-11-23,1957-11-03,Maschio,No
+C0038,Paolo,Ricci,paolo.ricci72hotmail.it,(398) 1440466,catanzaro,88100,2024-08-09,06/01/2009,MASCHIO,si
+C0190,	Elisa ,DE LUCA,ELISA.DELUCA49@LIBERO.IT,(329) 8901905,TORINO,10100,12/05/2023,16/11/1954,altro,False
+C0067,Valentina,Moretti,valentina.moretti31@libero.it,(328) 2692765,milano,020100,2022/02/04,19-01-90,f,False
+C0220,  CLAUDIA ,Bruno,claudia.bruno17@gmail.com,360-9899034,Bologna,40100,26 may 2022,12-05-73,X,NO
+C0108,Federica,Leone,federica.leone83@libero.it,+39 396 1141997,NAPOLI,80100,16/09/2022,00/00/0000,female,1
+C0124,Simone,Ferrari,simone.ferrari29@libero.it,00393626554374,BARI,70100,28 oct 2022,07-08-69,female,no
+C0196,Elena,Rinaldi,elena.rinaldi19@outlook.com,+39 356 8649177,n.d.,51500,26/09/2023,00/00/0000,M,no
+C0137,CHIARA,Moretti,chiara.moretti87@gmail.com,366501406,Naples,21818,01/01/2022,1964/02/16,2,False
+C0017, mARCO,Gallo,MARCO.GALLO97@YAHOO.IT,373-4700025,Lecce,91560,13/08/2022,1974-06-27,female,s
+C0318,-,Fontana,SILVIA.FONTANA64@HOTMAIL.IT,338-4895475,TORINO,10100,16/10/2023,14.10.1972,altro,NO
+C0039,Fabio,Moretti,fabio.moretti87@gmail.com,354843420,Milano,20100,2023-03-11,28/07/1993,F,1
+C0176,SILVIA,GIORDANO,silvia.giordano17@outlook.com,(327) 7194532,Catanzaro,88100,18-09-24,07-10-54,Maschio,1
+C0014,Paolo,Greco,paolo.greco71@gmail.com,+39 358 5813613,Catanzaro,88100,17-03-23,12/01/2002,n.d.,s
+C0206,Stefano,  giordano,stefano.giordano16@libero.it,370772136,Roma,00100,28/08/2023,1959-02-16,Femmina,NO
+C0211,Andrea,fERRARI,andrea.ferrari68@yahoo.it,00393744518839,Palermo,90100,2024-03-25,1956/11/17,M,si
+C0142,elena,MARINO,elena.marino73@gmail.com,370266052,Firenze,50100,2022/06/17,22/05/1955,Maschio,SI
+C0120,sARA,mariani,sara.mariani14@yahoo.it,(396) 6399642,napoli,88974,21/06/2024,05-07-84,1,No
+C0075,FRANCESCA, fERRARI,francesca.ferrari40@yahoo.it,3665525929, MI,20100,16 may 2022,31/10/1957,Maschio,1
+C0022,  RICCARDO,colombo,riccardo.colombo30@outlook.com,3426071208,Lecce,11607,27/12/2023,1997-12-02,f,Si
+C0127,alessandro,  Mariani,alessandro.mariani70@outlook.com,338600055,Catanzaro,88100,06/27/2024,17/02/2008,altro,n
+C0167,  elena  ,Costa,elena.costa16@pec.it,(355) 6523202,Naples,80100,02/28/2023,25.01.1997,m,1
+C0058,,Giordano,riccardo.giordano63@pec.it,392-6029651,Firenze,50100.0,15.04.2024,1951/06/30,X,False
+C0119, ROBERTO  ,eSPOSITO,roberto.esposito22@yahoo.it,,Milano ,93000,18/09/2022,20 oct 2004,Femmina,s
+C0088,  roberto ,	rossi,roberto.rossi27@hotmail.it,+39 397 9548370,,73100,02/05/2024,,N/A,
+C0372,MATTEO,Romano,MATTEO.ROMANO6@YAHOO.IT,344601421,,NULL,04/02/2023,1959-07-31,X,true
+C0011,daniele,Santoro, daniele.santoro70@gmail.com ,367-3484601,napoli,80100,2022-05-11,NULL,female,n
+C0192,federica, Ricci,federica.ricci72@gmail.com,+39 372 4657541,-,XXXXX,2023/01/03,15 jul 1976,Maschio,Si
+C0110,  Sara,Greco,sara.greco61@libero.it,353407137,Roma,00100,2024-07-10,11/02/1980,M,
+C0112,Antonio,MARIANI,antonio.mariani29@pec.it,+39 364 6236039,Torino,10100,2022-04-16,N/A,M,No
+C0048,Valentina,Romano,valentina.romano68@outlook.com,(328) 9825812,roma,00100,04-06-23,17-07-95,X,False
+C0156,FABIO,Moretti,fabio.moretti65@,00393488246678,Palermo,90100,16-03-24,1985/05/18,Femmina,true
+C0311,FRANCESCA,Greco,FRANCESCA.GRECO14@YAHOO.IT,00393454351238,Roma,00100,01/05/2024,07/12/1996,F,SI
+C0180,n.d.,	Russo ,paola.russo11@libero.it,396-3586212,BARI,70100,10/02/2024,18/01/1987,Maschio,0
+C0109,aNTONIO,SANTORO,antonio.santoro25@,3865031599,Lecce,73100,04-04-24,2003-10-31,female,
+C0145,-,Leone, laura.leone71@yahoo.it ,(337) 3970181,Lecce ,73100,04/09/2023,n.d.,Maschio,NO
+C0204,ANDREA, lombardi  ,andrea.lombardi46@libero.it,(384) 5057108,Bari,70100,07.08.2023,18/02/1956,F,true
+C0122,Paola,Ricci,paola.ricci50@libero.it,385582577,FIRENZE,50100,12 nov 2023,20 mar 1954,Femmina,
+C0334,FABIO,Bianchi,FABIO.BIANCHI88@YAHOO.IT,360-8574743,PALERMO,90100,13 jun 2024,23/12/1961,M,true
+C0115,  Stefano  ,Russo,stefano.russo23@gmail.com,357704339,Roma,00100,17-11-22,21 mar 1988,F,No
+C0163,Riccardo,CONTI,riccardo.conti51@,(393) 9995261,Bari,70100,2023-10-19,1953-06-15,MASCHIO,si
+C0052,Francesca,bianchi,francesca.bianchi58@libero.it,376247288,Roma,00100,17/09/2024,1978-09-03,F,SI
+C0132,Andrea,  cOLOMBO,ANDREA.COLOMBO24@LIBERO.IT,366298525,null,080100,2022-08-24,14/03/1987,MASCHIO,true
+C0095,LAURA,MARIANI,laura.mariani32@gmail.com,+39 379 2709721,Firenze,50100.0,05 may 2022,n.d.,F,no
+C0067,Valentina,Moretti,valentina.moretti31@libero.it,(328) 2692765,milano,020100,2022/02/04,19-01-90,f,False
+C0092,luca, Martini,luca.martini37@outlook.com, ,-,40100,2023/04/13,19-09-50,male,Y
+C0191,Sara,Lombardi,sara.lombardi30@gmail.com,372-9753827,Florence,50100,06/01/2024,06/02/1969,2,False
+C0209,DAVIDE,RUSSO,NULL,00393367147341,Milano,-,08/04/2024,23-05-02,female,SI
+C0080,laura,dE   lUCA,laura.deluca30@yahoo.it,343412705,BOLOGNA,40100,2023/11/05,08/10/1988,F,Y
+C0111,mATTEO,, ,338630803,Catanzaro,XXXXX,2022/07/04,1957/04/02,NULL,False
+C0126,Ilaria,Marino,ilaria.marino10@hotmail.it,349-5339392,Firenze,50100,2023-02-02,22-06-90,F,No
+C0077,	Antonio  ,Costa,antonio.costa32@outlook.com,368-5702656,Palermo,90100,2023-01-09,20/03/1960,altro,SI
+C0031, paolo,Galli,paolo.galli78@pec.it,+39 383 5801541,milano,20100,14-09-23,10/08/1981,Femmina,si
+C0213,Andrea,	Bianchi ,andrea.bianchi34@outlook.com,390395254,Milano,20100,2024-05-22,1953-10-15,MASCHIO,SI
+C0166,Giulia, Romano  ,giulia.romano8@,+39 364 1616077,NAPOLI,80100,24-05-24,1952-11-28,X,true
+C0187,Simone, BRUNO  ,n.d.,00393893304005,Roma,00100,2024-05-06,,M,Si
+C0104, Ilaria  ,Lombardi,ilaria.lombardi19gmail.com,+39 377 3900427,Palermo,90100,22/09/2024,04 jan 1969,2,Y
+C0100,	Fabio  ,lombardi,fabio.lombardi24hotmail.it,-,Milano,20100.0,2023-08-03,05/05/1959,F,n
+C0042,luca,  Costa,luca.costa81@outlook.com,00393551942411,Bologna,40100,2023-06-04,08/28/1956,altro,si
+C0054,	Andrea,Bianchi,andrea.bianchi79@hotmail.it,331943177,Lecce,73100,22/06/2022,04/02/2003,MASCHIO,Y
+C0006,anna,	barbieri  ,anna.barbieri57@hotmail.it,+39 377 3030113,bari,70100,19/08/2022,30/09/1955,MASCHIO,0
+C0023,Luca,rICCI,luca.ricci72@yahoo.it,(397) 4786401,Roma,null,25/01/2023,02/06/1990,F,Si
+C0179,Ilaria,	lombardi  ,ILARIA.LOMBARDI8@PEC.IT,(380) 3836678,Lecce,73100,22/02/2022,18/11/2008,1,NO
+C0062,	Claudia,LEONE,claudia.leone54@libero.it,324-7660463,Napoli,80100,2022-07-10,12/21/1975,1,true
+C0046,	Sara  ,ferrara,sara.ferrara78@libero.it,352187543,Torino,1010,05/08/2023,21/04/1983,Femmina,No
+C0066, Valentina  ,GALLO,valentina.gallo58@yahoo.it,368234637,Catanzaro,88100,14/09/2024,16/05/2009,m,0
+C0103,Simone, ,simone.gallo58@gmail.com,353-8377620,Napoli,80100,2022/09/27,19/04/1970,M,
+C0024,ILARIA,CARUSO,ilaria.caruso85@libero.it,(374) 2925626,N/A,90100,2022-08-19,2008-02-07,m,n
+C0098,Sara,RICCI,sara.ricci41@pec.it,365147322,Palermo,90100,31/13/2023,20/07/1981,F,False
+C0155,Silvia,bARBIERI,silvia.barbieri5@pec.it,3937401281,Lecce,73100,2024/03/09,01/07/1955,MASCHIO,Y
+C0141,davide,Gallo,-,346803121,Napoli,80100,2024/02/10,1983-05-27,1,1
+C0019,Claudia,Conti,claudia.conti92@libero.it,3295074336,Catanzaro,88100,2023-12-15,21/01/1977,1,1
+C0015,  Daniele ,barbieri,daniele.barbieri25@pec.it,369-9294272,Palermo,90100,07 sep 2022,29/03/1963,M,Y
+C0214,Federica,  Martini  ,federica.martini31@hotmail.it,00393356258152,Roma (RM),00100,02/05/2024,2002-06-04,Femmina,true
+C0047,NULL,Bianchi,alessandro.bianchi37@yahoo.it,337-8870361,Milan,20100,23/09/2023,22/06/1950,MASCHIO,Y
+C0165,Paolo,GALLI,paolo.galli21@libero.it,342-1860847,NAPOLI,XXXXX,2022-11-12,08/10/1977,2,0
+C0013,DAVIDE,De Luca,davide.deluca66@gmail.com,00393694188992,Palermo,90100.0,15-02-22,13-02-89,F,n
+C0395,MARCO,Esposito,MARCO.ESPOSITO53@GMAIL.COM,3911002847,catanzaro,88100,2024/03/21,NULL,X,False
+C0034,Anna,gallo,anna.gallo83@outlook.com,00393277679674,FIRENZE,50100,14/07/2022,1960-12-16,,
+C0146,silvia,  Ricci ,silvia.ricci71@outlook.com,(344) 7907781,Milano,20100,2023/03/24,01-06-85,altro,s
+C0194,	Anna,De Luca,anna.deluca7@,367-6791940,Lecce,73100,05/13/2023,1994/12/27,2,SI
+C0188,  iLARIA,Rinaldi,ilaria.rinaldi89@libero.it,346340061,Bologna,40100.0,2022-10-05,1996-12-05,F,SI
+C0084,daniele,Fontana,daniele.fontana18@yahoo.it,327565271,,00100,2022-05-10,1961-11-27,MASCHIO,Y
+C0116,ROBERTO,MARIANI,roberto.mariani21@gmail.com,(373) 9097940,Milano,2010,26 nov 2023,1900-01-01,F,NO
+C0160,Laura,Marino,laura.marino20@outlook.com,3703302852,Torino,10100,18-01-24,1984-04-16,M,no
+C0168,	Silvia ,rICCI,silvia.ricci25@gmail.com,335-1402431,Lecce,73100.0,03/10/2023,31/07/1960,m,true
+C0012,Chiara,  Marino,null,368-1649691,NAPOLI,80100,16/08/2022,1967/11/27,f,s
+C0121,Giorgio,Rizzo, giorgio.rizzo91@gmail.com ,(365) 9059269,bari,7010,08-08-23,08/11/2009,n.d.,Y
+C0323,CHIARA,Fontana,CHIARA.FONTANA96@PEC.IT,+39 330 4532803,Lecce,073100,11/02/2023,NULL,Maschio,NO
+C0208,DANIELE,leone,daniele.leone50@yahoo.it,360-7313879,Rome,00100,16/04/2023,25-03-53,MASCHIO,true
+C0153,ANNA,de luca,anna.deluca22@libero.it,(390) 7737011,,00100,12-12-22,2008/12/28,f,False
+C0069,Elisa,Ferrara,elisa.ferrara7@outlook.com,3681663497,torino,10100,12/07/2022,18.09.2002,Femmina,no
+C0161,antonio,Leone,antonio.leone21@outlook.com,328994161,Palermo,90100,05/02/2022,09 jul 1966,2,n
+C0117,ANNA,Mariani,anna.mariani62@outlook.com,(369) 3494007,TORINO,10100,02/07/2024,26/12/2004,male,no
+C0123,	Luca ,ROMANO,luca.romano95@hotmail.it,3357328336,NAPOLI,80100,2023/03/15,15-01-75,1,s
+C0169,Federica,Leone,federica.leone5@pec.it,+39 337 9078154,Bologna,40100,05-10-23,29/04/1991,-,si
+C0182,Andrea,COLOMBO,andrea.colombo4@hotmail.it,(331) 1954320,Milano,20100,2023-11-04,14.06.1969,2,SI
+C0118,Marco,Esposito,marco.esposito53@gmail.com,3911002847,catanzaro,88100,2024/03/21,NULL,X,False
+C0021,Federica,mancini,federica.mancini12@outlook.com,348778472,Milano,20100,07/09/2022,21/06/1977,altro,no
+C0008,Simone,	rossi,simone.rossi34@yahoo.it,356809688,CATANZARO,XXXXX,2024-09-07,11 nov 1999,M,si
+C0040,lAURA,santoro,laura.santoro65@hotmail.it,365-2209226,Torino,10100,2024-06-01,18.10.1953,M,Y
+C0083,aNTONIO,rinaldi,antonio.rinaldi39@gmail.com,00393775409307,Torino,10100,01-06-24,21/10/1957,M,Y
+C0215,marco,,marco.barbieri5pec.it,00393265021093,Palermo,90100,2023-07-20,06.07.1984,m,NO
+C0028,Paola,Colombo,paola.colombo74yahoo.it,3497891662,Torino,75836,31/13/2023,07/06/1992,1,0
+C0152,Daniele,Ferrara,daniele.ferrara60@,(327) 7055334,Roma,38298,01/02/2024,26-04-87,male,1
+C0096,federica,Rossi,federica.rossi88@yahoo.it,+39 342 6938182,Catanzaro,88100,2024-07-19,-,Maschio,Si
+C0101,riccardo, COSTA  ,riccardo.costa84@pec.it,348-3728923,Palermo,90100,17 mar 2022,30/12/1952,female,False
+C0032,RICCARDO,Romano,riccardo.romano62@outlook.com,363-2932227, ,73100,2024/09/13,03/10/1956,male,SI
+C0059,Stefano,  BRUNO,stefano.bruno20@yahoo.it,(346) 7884990,Catanzaro ,88100,2024-03-04,11/09/2004,Femmina,true
+C0175,  LUCA,Moretti,luca.moretti88@hotmail.it,368-6492998,ROMA,00100,23/10/2023,24-03-09,Femmina,no
+C0073,Francesca, Martini  ,francesca.martini6@libero.it,00393478977571,Firenze,50100,2022/02/17,02-09-56,Maschio,SI
+C0007,  Stefano  ,  Galli ,stefano.galli87pec.it,,Milano,20100,16/01/2024,1980/06/10,1,true
+C0085,aNNA, Santoro ,ANNA.SANTORO9@HOTMAIL.IT,370-4654579,Bari,70100,24/04/2024,02-01-69,1,0
+C0025,Paolo,Lombardi,paolo.lombardi98@pec.it,+39 354 1674975,Milan,,27/04/2023,23/07/1996,M,No
+C0174,Ilaria,greco,ilaria.greco60@yahoo.it,+39 395 7936404,Firenze,50100,2023/09/28,1971-11-12,F,Si
+C0128,	paola ,Russo,paola.russo60@pec.it,00393902227162,FIRENZE,50100,19 nov 2023,17/01/1956,N/A,No
+C0326,LUCA,Martini,LUCA.MARTINI37@OUTLOOK.COM, ,-,40100,2023/04/13,19-09-50,male,Y
+C0064,elena,Gallo,elena.gallo29@libero.it,+39 337 9022561,Palermo,90100,2023-04-11,2004/05/05,male,0
+C0020, Laura  ,Rinaldi,N/A,00393955502929,BOLOGNA,40100,22/05/2024,10/01/1972,X,NO
+C0107, Roberto,,roberto.colombo48yahoo.it,384765958,Lecce,73100,2024/08/03,01/01/1890,1,n
+C0047,NULL,Bianchi,alessandro.bianchi37@yahoo.it,337-8870361,Milan,20100,23/09/2023,22/06/1950,MASCHIO,Y
+C0147, federica,  COLOMBO ,federica.colombo3@libero.it,3269975319,BARI,70100,2022/07/10,06.03.1959,Femmina,n
+C0197,cLAUDIA,Bruno,claudia.bruno1@pec.it,00393899512910,Napoli,80100,2023-10-25,07-07-76,altro,0
+C0135,roberto,caruso,roberto.caruso53@outlook.com,333-3596753,Bari,70100,2023/10/30,2002-07-08,f,true
+C0002,andrea,  caruso  ,andrea.caruso94@yahoo.it,388-3094235,Milano,20100,22.03.2022,12 jul 1999,1,SI
+C0365,PAOLA,Bruno,PAOLA.BRUNO49@OUTLOOK.COM,(382) 1602286,Firenze,50100,2022-03-12,23-01-71,2,si
+C0055,aNNA,Conti,anna.conti59@gmail.com,327-3652149,LECCE,58567,2023-03-02,11/06/1993,Femmina,SI
+C0150,  Martina,mariani,martina.mariani33@gmail.com, ,Napoli,80100,2022-10-29,NULL,M,0
+C0170, sIMONE ,romano,simone.romano15@outlook.com,00393601530633,Palermo,90100,28 feb 2023,1957-10-15,M,Y
+C0120,sARA,mariani,sara.mariani14@yahoo.it,(396) 6399642,napoli,88974,21/06/2024,05-07-84,1,No

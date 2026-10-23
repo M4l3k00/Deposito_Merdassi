@@ -1,0 +1,229 @@
+id_prodotto,nome_prodotto,categoria,marca,id_fornitore,prezzo,costo,giacenza,peso_kg,data_inserimento
+P0015,MOUSE WIRELESS MINI,Elettronica,Zenith,F099,224.34,144.96,198,0,2021/07/11
+P0201,LIBRO CUCINA MINI,Libri,NordLab,F169,70.48,44.75,146,903 g,2024-07-03
+P0175,FASCIA ELASTICA,Sport & Outdoor,CasaPiù,F185,83.77 €,47.70,24,0,2024-04-07
+P0060,Felpa Cappuccio Eco,Abbigliam.,casapiù,F102,142.28 €,"74,21",32.0,3.8kg,2024/07/26
+P0042,	smartwatch eco,Electronics,TECHNOVA,n.d.,169.90,100.59,dieci,-1,04/03/2024
+P0178, Fascia Elastica Plus  ,sport,BLUEPEAK,F057,191.44,"103,04",,-1,2022/06/23
+P0004,Cuffie Bluetooth Plus,Elettronica,CasaPiù,F028,"142,81","82,48",103,1.30,2022-11-27
+P0344,manubri 5kg mini,SPORT,	CasaPiù, ,135.28,91.92,NULL,4458 g,14-06-21
+P0006,Cuffie Bluetooth Eco, ,Zenith,F089,89.32,"61,58",6.0,-1,03/01/2023
+P0123,Bollitore Elettrico Mini,N/A,NORDLAB,F023,238.24,"126,25",34,-1,2024-01-16
+P0099,lampada led mini,Casa, UrbanWear ,F104,"12,23",8.03,32,0,07/31/2021
+p0067,Giacca Invernale,Abbigliam.,-,f158,174.91,"115,77",-6,0,2022-03-21
+P0162,Corda Salto Eco,Sport,URBANWEAR,F055, 243.14 ,437.65,dieci,"3,00",18/12/2022
+P0054,T-shirt Cotone Eco,n.d.,BLUEPEAK,F088,153.81,113.45,127,-1,16/08/2023
+P0017,Mouse Wireless XL,Elettronica,	Zenith  ,F036,116.21,"84,63",n/d,1.65,06.09.2022
+P0115,Tappeto Salotto,Casa,  Zenith,F105,91.66,39.20,dieci,"3,17",2022-03-08
+P0145,Tappetino Yoga,Sport,NordLab,F094,187.64 €,"140,48",247,0,31-01-22
+P0077,Sneakers Running XL,abbigliamento,	UrbanWear  ,F170, 32.78 ,15.13,"48,5",4.64,15 jan 2023
+P0090, SCIARPA ECO ,ABBIGLIAMENTO,  Edizioni Aurora,F085,"79,80","57,24",n/d,0,2023/01/17
+P0195,GUIDA VIAGGI MINI,Libro,TechNova,F185,"€ 9,15","3,83",9999999,3.60,06/05/2024
+P0203,Libro Cucina XL,LIBRI,BluePeak,F157,138.28,80.46,179,"3,26",02 jun 2021
+p0091,camicia lino,Abbigliamento,NORDLAB,F145,115.89,76.16,dieci,0,2023-10-31
+P0207,FUMETTO MANGA MINI,Libri, Zenith  ,F004,"203,06",,-7,3.4kg,2023-08-31
+P0148,tappetino yoga plus,SPORT,UrbanWear,F076,"125,69",58.04,163,0.6kg,03-05-23
+P0008, cARICATORE usb-c pRO  ,Elettronica,NORDLAB,F021,"30,78",17.88,286,3.5kg,2023/10/02
+P0009,Caricatore USB-C Mini,Elettronica, TechNova ,F180, 33.92 ,16.09, ,338 g,16/08/2022
+p0137,Tenda Oscurante XL,Casa,BluePeak,F128,"98,57",73.25,155,1.2kg,15-12-22
+P0095,	Camicia Lino XL  ,Abbigliamento, NordLab,F158,197.72 €,119.25,54,-1,12-04-24
+P0043,  Speaker Portatile ,elettronica,Zenith,F055,97.37,63.40,59,-1,2022/06/24
+P0162,Corda Salto Eco,Sport,URBANWEAR,F055, 243.14 ,437.65,dieci,"3,00",18/12/2022
+P0007,Caricatore   USB-C,Elettronica,uRBANwEAR,F179,64.13,"43,03","38,5","4,69",19/05/2023
+P0026,	webcam hd pro ,Electronics,technova,F093,121.24,70.38,4,,06/06/2024
+P0335,t-shirt cotone,Moda,Zenith,F088,241.74,"111,22",275,"0,32",02-03-22
+P0105, SET PENTOLE MINI,NULL,URBANWEAR,F017,"€ 211,15","122,96",196,2.0kg,30/08/2021
+P0005,  cuffie bluetooth xl  ,Elettronica,URBANWEAR,F011,60.90 €,41.45,84,0,30.04.2024
+P0010,Caricatore USB-C Plus,Elettronica,ZENITH,F145,143.61,102.70,26.0,0.32,06-05-22
+P0024, tastiera meccanica eco ,Elettronica,n.d.,003,164.19,"77,58",3.0,2.1kg,12/03/2023
+P0052,T-SHIRT COTONE PLUS,Abbigliamento,FitLife,F188,"36,26","14,62",224,"2,20",16-02-23
+P0039,  SMARTWATCH MINI ,N/A,bLUEpEAK,F073,"177,49",83.30,-18,1.3kg,24/12/2021
+P0181,romanzo giallo,Libri,nORDlAB,F097,40.28,"22,60",9.0,0,15 jun 2023
+P0062,Jeans Slim Pro,Abbigliamento,UrbanWear,F068,19.03,13.05,n/d,4.1kg,2022-04-15
+P0084,Cappello Lana Eco,Abbigliamento, ZENITH ,F084,56.98,27.13,23,n.d.,05/01/2023
+p0136,tenda oscurante plus,casa,NULL,F028,99999,"69,54",74,0,2024-05-08
+P0073,  Sneakers Running ,Moda,urbanwear,null,"219,97","164,30",30.0,3.7kg,05/11/2023
+P0094,	camicia lino plus,Abbigliamento,casapiù,F014,171.34,"87,87",70,-,10.10.2023
+P0187,Manuale   Python,LIBRI,URBANWEAR,F026,"203,63",138.91,N/A,0.70,16/06/2022
+P0082,Cappello Lana Plus,ABBIGLIAMENTO,EDIZIONI AURORA,F132, 235.26 ,116.14,"38,5",2.5kg,2023-10-16
+P0034,Power Bank Plus,Elettr.,TechNova,F191,"38,70",n.d.,147,"1,11",30-08-22
+P0107,Set Pentole XL,CASA,tECHnOVA,F201,155.81,82.05,245,2.94,20/11/2023
+P0179,	FASCIA ELASTICA XL,Sport,NORDLAB,F036,90.78,,,-1,14-05-22
+P0044,Speaker Portatile Pro,Elettronica,CasaPiù, F099 ,152.40 €,72.81,21.0,3.6kg,2022-08-16
+P0196,  GUIDA VIAGGI PLUS  ,Libri,	edizioni aurora,F134,"22,05",11.91,12,"0,31",-
+P0140,Aspirapolvere Pro,Casa,edizioni aurora,F059,"€ 56,77",24.91,-4,1.5kg,04/18/2022
+P0209,Fumetto Manga XL,Libri,Zenith,F090,"201,95",91.11,-19,-1,04-09-22
+P0092,Camicia Lino Pro,Abbigliamento,EDIZIONI AURORA,F049, 171.31 ,122.44,62,3.5kg,2022-04-04
+P0002,Cuffie Bluetooth Pro,Elettronica,BluePeak,F076, 182.92 ,103.21,184,"3,77",
+P0061,Jeans Slim,ABBIGLIAMENTO, EDIZIONI AURORA  ,f144, 220.39 ,149.14,138,1802 g,27/03/2023
+P0167, BORRACCIA TERMICA XL,Sport,Edizioni Aurora,F174,"€ 214,71",122.36,9999999,0,2023-04-28
+P0106,SET PENTOLE PLUS,Casa,null,F134,"€ 227,96","151,38","28,5",4.8kg,01/10/2022
+P0055,Felpa   Cappuccio,Abbigliamento,FITLIFE,F114,"212,85","89,42",dieci,"2,41",2024/06/03
+P0135,tenda oscurante mini,Casa, ZENITH,F040,"€ 193,98",98.16,n.d.,-1,2023-12-19
+P0174,Zaino Trekking Eco,Sport,	UrbanWear ,F981,94.59,45.76,37.0,"3,81",2023/12/05
+P0048,	Speaker Portatile Eco,Elettronica,UrbanWear,179,216.24 €,127.18,60,-1,28-07-22
+P0074,Sneakers Running Pro,Moda,nordlab,F173,"73,20",30.26,216,0,12 dec 2023
+P0189,MANUALE PYTHON MINI,LIBRI,UrbanWear,f203,"89,47",43.33,45,0,2023-03-16
+P0057, Felpa Cappuccio Mini  ,Abbigliamento,FitLife,F017, 151.29 ,"60,94",52,"3,00",31/08/2023
+P0188,Manuale Python Pro,Libri,  URBANWEAR,F088,52.20,35.82,9999999,"1,02",2022-04-29
+P0132,Organizer Cucina Eco,casa,urbanwear,F918,12.00,6.95,234,"1,08",
+P0089,Sciarpa XL,abbigliamento,edizioni aurora,023,77.03,41.67,207,,13-05-23
+P0120,TAPPETO SALOTTO ECO,CASA,urbanwear,F113,208.71,146.25,N/A,-1,2022-01-08
+P0180,Fascia Elastica Eco,Sport & Outdoor,bLUEpEAK,F163,"193,33",85.43,n/d,"0,85",null
+P0058,Felpa Cappuccio Plus,Abbigliam.,bluepeak,F111,104.79, ,0,"2,41",10/30/2022
+P0170,ZAINO TREKKING PRO,Sport & Outdoor,ZENITH,F063, 156.61 ,"89,89",9999999,2041 g,07-06-24
+P0151,manubri 5kg,Sport & Outdoor,BluePeak,F136,"246,80",149.35,n/d,-1,18-01-23
+P0040,sMARTWATCH pLUS,Elettronica,FitLife,F185,6.78,4.14,29,"3,52",23-07-21
+P0085,Sciarpa,Abbigliamento, zENITH,071,"224,48","161,92",232,"0,60",02.01.2022
+P0342,cappello lana mini,Abbigliamento,UrbanWear,F076,56.52,,9999999,-1,2024/04/14
+P0208,fUMETTO mANGA pLUS,libri,  BLUEPEAK  ,F170,114.30 €,"85,59",268,1.3kg,12/08/2022
+P0184,Romanzo Giallo Plus,LIBRI,  nordlab,F099,142.61,88.42,185,2509 g,27.04.2023
+P0086,SCIARPA PRO,Abbigliamento,  bluepeak,F908,"204,96","120,55",235,2.1kg,2022-02-06
+P0023, tastiera meccanica xl  ,Elettronica, nordlab,F096,"244,36","118,66",dieci,0,2023-07-06
+P0102,Lampada LED Eco,N/A, technova,107,68.92,35.64,41,2533 g,2023-11-01
+P0125,bollitore elettrico xl,Casa,BluePeak,F011,219.28,112.53,"6,5",0,2022/03/20
+P0059,  Felpa Cappuccio XL  ,Abbigliamento,N/A,,93.34,63.80,97,"2,78",28-05-24
+P0193,Guida Viaggi,libri,Edizioni Aurora, F044 ,"220,78",118.00,242,2464 g,2023-03-18
+P0103,sET pENTOLE,Casa,N/A,F021,215.77,"137,81",121,-1,NULL
+P0133,Tenda Oscurante,casa,BluePeak,F146,89.45,50.52,217,-1,2022/05/31
+P0144,ASPIRAPOLVERE ECO,NULL,edizioni aurora,F169,77.35,42.98,dieci,3505 g,27/07/2023
+P0013,	mOUSE wIRELESS,ELETTRONICA,  Zenith,F132,70.94,52.30,216,"4,81",02/06/2021
+P0160,Corda Salto Plus,Sport,UrbanWear,F054,231.35,119.85,n/d,3592 g,2023-02-19
+P0065, jeans slim xl  ,abbigliamento,	TechNova ,F028,173.26,,dieci,0.6kg,06/26/2023
+p0114,Cuscino Memory Eco,Casa,tECHnOVA,F001,"231,51",146.60,n/d,0,2022-02-01
+P0104,SET PENTOLE PRO,Casa,Zenith,F054,152.59,108.59,154,-1,28/03/2024
+P0116,tAPPETO sALOTTO pRO,Casa,tECHnOVA,n.d.,126.70,56.52,n/d,4401 g,2024-02-19
+P0012,  caricatore usb-c eco ,Elettr.,cASApIÙ,F002,"40,29",19.72,"16,5",2.97,04/12/2022
+P0021,  tastiera meccanica mini,ELETTRONICA,fITlIFE,F165,240.95 €,148.34,192,,19/11/2023
+P0111,cuscino memory mini,CASA,CasaPiù,F032,"207,56",92.13,,2.15,14 feb 2022
+P0079,Cappello Lana,ABBIGLIAMENTO,UrbanWear,F032,207.99,,133,"0,23",27-07-21
+P0210,FUMETTO MANGA ECO,Libri,zenith,F141,"€ 43,53",78.35,174,0,07/22/2024
+P0027,  Webcam HD Mini ,Elettronica,NordLab,F132,159.31,97.35,"45,5",440 g,27/07/2022
+P0050,	T-shirt Cotone Pro ,Abbigliamento,FitLife,F131,98.54 €,"70,58",261,"3,96",06/11/2021
+P0022,TASTIERA MECCANICA PLUS,Elettronica,urbanwear,F015,69.19,"31,90",43.0,4.89,29/01/2022
+p0204,	libro cucina eco  ,LIBRI,uRBANwEAR,F100,"190,17",96.23,153,-1,25-08-21
+P0098,Lampada LED Pro,Casa e Giardino,casapiù,F154,"92,65",64.81,-18,-1,12/05/2024
+P0041,SMARTWATCH   XL,Elettronica,Zenith,F183,166.42 €,n.d.,dieci,"4,54",21 mar 2022
+P0339,organizer cucina eco,casa,urbanwear,F128,12.00,6.95,234,"1,08",
+P0113,Cuscino Memory XL,Casa,zenith,F062,129.62,"78,53",21,2.92,11/01/2023
+P0130,Organizer Cucina Plus,Casa,fitlife,F002,"159,60",110.30,137,0,2022-06-17
+P0020, Tastiera Meccanica Pro ,Elettronica,	edizioni aurora,F023,15.80,7.03,16.0,"2,17",19/10/2021
+P0121,BOLLITORE ELETTRICO,Casa,FITLIFE,F022,"40,22","24,96",9999999,-1,2024-02-26
+P0158,Corda Salto Pro,Sport,nORDlAB,f172,37.93,23.18,64,-1,02/01/2022
+P0046,SPEAKER PORTATILE PLUS,Elettronica,UrbanWear,F153, 165.39 ,N/A,218,0,2023-04-25
+P0161,Corda Salto XL,Sport,TechNova,F053,"221,98",-,271,0,2022-04-08
+P0035,	power bank xl ,ELETTRONICA,fITlIFE,F112,"160,42",72.11,295,1.9kg,2022-05-10
+P0366,cappello lana xl,Abbigliamento, BLUEPEAK ,F110, 224.98 ,154.51,95,3919 g,23-06-21
+P0074,Sneakers Running Pro,Moda,nordlab,F173,"73,20",30.26,216,0,12 dec 2023
+P0078,Sneakers Running Eco,Abbigliam.,Edizioni Aurora,F192, 90.9 ,61.61,123,0,13/03/2023
+P0165,Borraccia Termica Mini,Sport & Outdoor,technova,F181,149.63,n.d.,dieci,"2,22",20-07-21
+P0129,Organizer Cucina Mini,Casa,casapiù,F175,198.24 €,94.39,-16,4429 g,14-11-22
+P0030,Webcam HD Eco,ELETTRONICA,BLUEPEAK,F045,"195,98",352.76,n/d,1.3kg,2022-03-15
+P0147,Tappetino Yoga Mini,-,fITlIFE,F131,"226,27",131.89,"14,5",2.49,2023/11/24
+P0056,  Felpa Cappuccio Pro ,Abbigliamento,EDIZIONI AURORA,F015,"93,01","65,54",-10,N/A,2022/01/07
+P0037,Smartwatch,Electronics,BluePeak,F027,233.37,106.61,,"3,07",08/28/2024
+P0159,Corda Salto Mini,Sport,TechNova,F025,"€ 131,64",98.16,17,-1,2023-09-09
+P0143,Aspirapolvere XL,Casa,  nORDlAB ,F042, 135.87 ,"55,48",296,"1,77",24/11/2022
+P0080,Cappello Lana Pro,abbigliamento,CasaPiù,F032,195.51,"90,97",52,0.6kg,11 jun 2023
+P0153,Manubri 5kg Mini,SPORT,	CasaPiù,F188,135.28,91.92,NULL,4458 g,14-06-21
+P0191,mANUALE pYTHON xl,Libri, Zenith,F184,43.79,"30,23",244,1160 g,21/04/2022
+P0029,	WEBCAM HD XL,Elettronica,	BluePeak  ,f120,220.84,"123,61",201,0,19 aug 2022
+P0003,  cuffie bluetooth mini  ,Elettronica,nordlab, F097 ,92.90,45.64,9999999,0.3kg,24.12.2023
+P0016,MOUSE WIRELESS PLUS,Elettronica,	NORDLAB,F104,gratis,43.97,289,-1,14/12/2022
+P0192,manuale python eco,Libri,Zenith,F101,"96,47",173.65,143,-1,12-09-22
+P0194,guida viaggi pro,libri,	casapiù ,F164,"153,24",77.15,40,869 g,01/07/2022
+P0386,jeans slim pro,Abbigliamento,UrbanWear,-,19.03,13.05,n/d,4.1kg,2022-04-15
+P0025, webcam hd ,Elettr.,FitLife,F194,130.63,"81,68",278,-1,2021-06-25
+P0033,power bank mini,ELETTRONICA,Zenith,F188,198.86,"143,73",-1,2.60,20/09/2022
+p0137,Tenda Oscurante XL,Casa,BluePeak,F128,"98,57",73.25,155,1.2kg,15-12-22
+P0152,MANUBRI 5KG PRO,Sport,TECHNOVA,F059,93.50,62.69,34.0,4978 g,2024-06-08
+P0072,  giacca invernale eco,Abbigliamento,Edizioni Aurora,f088,"196,45",84.57,n/d,0,2022-02-20
+P0168,Borraccia Termica Eco,Sport,fitlife,F036,"77,01",46.17,110,-1,03.07.2024
+P0011,	Caricatore USB-C XL  ,Elettronica, ,007,52.14,32.15,"35,5",2508 g,13/11/2023
+P0155,Manubri 5kg XL,Sport,URBANWEAR,F088,11.23,"7,90",183,4.93,23/12/2023
+P0088, Sciarpa Plus  ,Abbigliamento,FITLIFE,F079,157.02 €,-,243,1.1kg,2024-03-25
+P0173,ZAINO   TREKKING   XL,Sport & Outdoor,UrbanWear,F112,228.59,139.42,178,3057 g,12/19/2023
+P0190,Manuale Python Plus,Libri,NORDLAB,F064,"51,62",31.26,dieci,"1,89",-
+P0070, GIACCA INVERNALE PLUS  ,Abbigliamento,Edizioni Aurora,F107,"232,65","112,63",dieci,"2,10",2021-07-19
+P0200,  lIBRO cUCINA pRO,Libro,,F110,201.14,362.05,dieci,"0,28",2021-06-28
+P0081,Cappello Lana Mini,Abbigliamento,UrbanWear,F184,56.52,,9999999,-1,2024/04/14
+P0100,LAMPADA LED PLUS,Casa,  FITLIFE ,F056,"€ 66,86","36,98",208,3.2kg,2022/06/25
+P0112,Cuscino Memory Plus,Casa,TECHNOVA,F175,226.54 €,118.71,209,-1,09/04/2024
+P0122, Bollitore Elettrico Pro  ,CASA,NORDLAB,F055,"248,23",106.37,280,3627 g,06/05/2024
+P0028,  Webcam HD Plus ,Elettronica,NORDLAB,F135,"105,66",48.07,n/d,0.4kg,2022-10-19
+P0126,Bollitore Elettrico Eco,casa,TECHNOVA, F060 ,90.30 €,36.92,300,0,16-12-22
+P0110,	cuscino memory pro ,Casa,zenith,F065,137.05,60.64,9999999,4413 g,2024-07-22
+P0014,Mouse Wireless Pro,Elettronica,bluepeak,F048,"€ 57,12",,n/d,n.d.,04/04/2023
+P0069,giacca invernale mini,abbigliamento,nORDlAB,F982,"178,79",null,dieci,611 g,28/07/2021
+P0051,T-shirt Cotone Mini,Abbigliamento,Edizioni Aurora,011,195.63,"88,27",178,4.7kg,06/06/2022
+P0108,	Set Pentole Eco ,Casa,TechNova,F053,1e3,65.27,22,2604 g,2024-08-12
+P0182,romanzo giallo pro,Libro,BLUEPEAK,F148,"€ 31,62",19.87,197,-1,11/07/2022
+P0131,ORGANIZER CUCINA XL,Casa,tECHnOVA,F048,30.63,16.10,222,3.64,2022/09/23
+P0071,GIACCA INVERNALE XL,Abbigliamento, zENITH ,F095,221.87,95.99,dieci,"1,12",05-08-24
+P0150,Tappetino Yoga Eco,SPORT,bluepeak,F177,"105,15","65,83",110,0,01/19/2024
+P0171,  Zaino Trekking Mini,Sport,CasaPiù,F021,245.14,"148,41",n/d,0,2023/08/03
+P0117,Tappeto Salotto Mini,casa,NordLab,F034,224.72 €,"149,97",19.0,2104 g,18-11-22
+P0127,Organizer Cucina,Casa e Giardino,  CasaPiù  ,F132, 12.45 ,8.11,dieci,"1,64",05/07/2021
+P0017,Mouse Wireless XL,Elettronica,	Zenith  ,F036,116.21,"84,63",n/d,1.65,06.09.2022
+P0158,Corda Salto Pro,Sport,nORDlAB,F172,37.93,23.18,64,-1,02/01/2022
+P0018, MOUSE WIRELESS ECO  ,Elettronica,FitLife,F143,28.70,16.30,48,0,2021/10/12
+P0001,cUFFIE bLUETOOTH,Elettronica,tECHnOVA,F125,1e3,99.98,46.0,0,03 oct 2023
+P0185,ROMANZO GIALLO XL,Libro,BluePeak,122,248.26,168.03,n/d,3282 g,07.12.2023
+P0141,ASPIRAPOLVERE MINI,Casa,BluePeak,F189,227.28,121.41,291,-1,01 jul 2022
+P0097,Lampada LED,Casa,bluepeak,F031,"205,54",129.51,n/d,0,28/11/2023
+P0032,	POWER BANK PRO ,Elettronica, urbanwear  ,F119,"208,46","95,63",7,0,26/06/2023
+P0065, jeans slim xl  ,abbigliamento,	TechNova ,F028,173.26,,dieci,0.6kg,06/26/2023
+P0019,Tastiera Meccanica,Elettronica,BluePeak,F096,18.67,7.81,"22,5","0,60",17/08/2024
+P0156, Manubri 5kg Eco,Sport,ZENITH,F167,21.00,15.35,4,0,2023-01-22
+P0066, Jeans Slim Eco  ,Moda,zenith,F997,41.21,22.93,211,2.2kg,2024-06-08
+P0038,Smartwatch Pro,Electronics,URBANWEAR,F201,"225,74",131.27,9999999,2.05,16/12/2021
+P0088, Sciarpa Plus  ,Abbigliamento,FITLIFE,F079,157.02 €,-,243,1.1kg,2024-03-25
+P0138,Tenda Oscurante Eco,CASA,FITLIFE,057,"71,81","38,96","41,5",4656 g,17/03/2023
+P0118,	Tappeto Salotto Plus,Casa e Giardino, TechNova  ,F064,"58,64","36,51",50.0,"0,34",2024-06-02
+P0146,	tappetino yoga pro,Sport,	UrbanWear,F173,"196,86",114.86,126,3.5kg,30/05/2022
+P0070, GIACCA INVERNALE PLUS  ,Abbigliamento,Edizioni Aurora,F107,"232,65","112,63",dieci,"2,10",2021-07-19
+P0124,Bollitore Elettrico Plus,Casa e Giardino,N/A,F943,206.08,145.05,-2,0,26/01/2024
+P0101,	LAMPADA LED XL,casa,Edizioni Aurora,159,21.45 €,"11,79",19.0,2.6kg,-
+P0063,Jeans Slim Mini,ABBIGLIAMENTO,uRBANwEAR,F044,204.82,"94,55",206,N/A,2022/01/12
+P0096,  Camicia Lino Eco  ,Abbigliamento,UrbanWear,F179,"€ 170,54",306.97,12,"1,57",
+P0128, Organizer Cucina Pro  ,casa,Edizioni Aurora,F018,94.73,38.36,1,0.5kg,28/11/2021
+P0166,Borraccia Termica Plus,Sport & Outdoor,Zenith,F056,205.50,106.95,88,4197 g,25 dec 2021
+P0047,sPEAKER pORTATILE xl,Elettronica,  nordlab  ,F045,151.06,69.54,"2,5",-1,2022-06-06
+P0087,Sciarpa Mini,Abbigliamento,FITLIFE,F163,27.49,18.37,96,2618 g,17-12-23
+P0163,borraccia termica,Sport,NORDLAB,F090,72.49,37.30,174,0,2024/02/23
+P0352,tappetino yoga,Sport,NordLab, F079 ,187.64 €,"140,48",247,0,31-01-22
+P0069,giacca invernale mini,abbigliamento,nORDlAB,F197,"178,79",null,dieci,611 g,28/07/2021
+P0064,	JEANS SLIM PLUS ,Abbigliamento,-, F056 ,"151,91",102.89,136,"1,55",03 jun 2021
+P0164,borraccia termica pro,Sport & Outdoor,zENITH,F129,217.99,137.93,n/d,1.29,2024-02-25
+P0075,SNEAKERS RUNNING MINI,Abbigliamento,BluePeak,F097,"88,79",58.92,"43,5",0,11/03/2023
+P0199,  LIBRO CUCINA  ,Libri,technova,F034,122.64,74.67,,3735 g,04-10-23
+P0186,	romanzo giallo eco ,Libri,zenith, F128 ,abc,"8,95",217,2806 g,18 nov 2021
+P0031,POWER BANK,Elettronica,urbanwear,F037,99999,"85,66",2,0.5kg,28.07.2021
+P0045,speaker portatile mini,Elettronica,TechNova,F080,184.50,126.13,26.0,-1,16/08/2023
+P0134,tENDA oSCURANTE pRO,Casa,technova,F046,"163,17",73.15,203,1.80,26/04/2022
+P0149,TAPPETINO YOGA XL,-,casapiù,163,"83,40",48.84,n/d,0,2023/05/26
+P0119,TAPPETO   SALOTTO   XL,Casa,FITLIFE,050,65.93,26.69,193,0,29/09/2023
+P0205,Fumetto Manga, ,uRBANwEAR,n.d., 189.46 ,126.83,,0,12/12/2023
+P0053,T-SHIRT COTONE XL,Abbigliamento,cASApIÙ,F063,63.81,"27,62","1,5",-1,08/05/2023
+P0083,Cappello Lana XL,Abbigliamento, BLUEPEAK , F086 , 224.98 ,154.51,95,3919 g,23-06-21
+P0142,Aspirapolvere Plus,Casa,UrbanWear,F089,84.07,42.25,81,4.3kg,30/07/2023
+P0139,aspirapolvere,CASA,	NordLab, F020 ,67.64,27.82,-1,0,02.03.2024
+p0183,  Romanzo Giallo Mini ,Libri,  zenith ,170,-9.99,112.47,"21,5",1759 g,2021/12/25
+P0093,  Camicia Lino Mini ,Abbigliamento,CasaPiù,F124,116.20,209.16,100,0,2023-08-01
+P0133,Tenda Oscurante,casa,BluePeak,F146,89.45,50.52,217,-1,2022/05/31
+p0176,	Fascia Elastica Pro  ,Sport,TechNova,F168,"223,63","145,21",169,-1,11 nov 2022
+P0324,felpa cappuccio xl,Abbigliamento,N/A, F084 ,93.34,63.80,97,"2,78",28-05-24
+P0076,	Sneakers Running Plus  ,Abbigliamento,CasaPiù,F016,69.39,45.30,97,0,19-03-24
+P0177,Fascia Elastica Mini,Sport,BLUEPEAK,F072,185.48,91.89,114,"3,98",11/08/2022
+P0198,Guida Viaggi Eco,Libri,FitLife,F159,"193,65","91,33",27,1160 g,2022-07-28
+P0206,Fumetto Manga Pro,Libri,,F040,128.01,71.96,218,0,2022/05/28
+P0036,POWER BANK ECO,Electronics,urbanwear,F049,"191,67",105.34,9999999,0,2023-07-05
+P0202,LIBRO CUCINA PLUS,Libri,nORDlAB,F190,192.99,87.17,21,-1,13.03.2022
+P0157,Corda Salto,sport,ZENITH,188,203.53,"94,35",-7,931 g,31/08/2022
+P0197,Guida Viaggi XL,libri,CasaPiù,F068,139.76,251.57,36.0,"4,19",01 apr 2023
+P0049,T-shirt Cotone,Moda,Zenith,F149,241.74,"111,22",275,"0,32",02-03-22
+P0169,	Zaino Trekking ,Sport & Outdoor,casapiù,F199,99.84,49.07,9.0,"2,72",15-05-23
+P0172,ZAINO TREKKING PLUS,Sport & Outdoor, TechNova  ,F967,"110,44","53,92",86,4020 g,10/21/2021
+P0109,  CUSCINO MEMORY,Casa e Giardino,FitLife,F029,198.10 €,102.47,260,0,11/08/2021
+P0154,  Manubri 5kg Plus  ,sport,TechNova,F130,85.02,n.d.,65,"4,65",17.10.2023
+P0068,	GIACCA INVERNALE PRO  ,Abbigliamento,eDIZIONI aURORA,F103,218.27 €,"89,61",6,4.42,2023/08/21

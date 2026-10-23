@@ -1,0 +1,224 @@
+id_fornitore,ragione_sociale,partita_iva,email,telefono,citta,paese,termini_pagamento,tempo_consegna_giorni,rating,attivo,data_inizio_collaborazione
+F084,  sMART dISTRIBUZIONE SRL ,77428080708,vendite@smartdistribuzione.eu,072/9466397,Lione,Francia,Pagamento anticipato,14 giorni,1/5,si,13/08/2022
+F117,ALFA INDUSTRIES S.P.A.,74932828014,ordini@alfaindustries.com,056/3580107,Bologna,,Bonifico 30 gg df,11 giorni,ottimo,0,2020-10-12
+F097,  mediterranea logistica s.r.l.,26307661292,n.d.,0315236133,  Shenzhen  ,n.d.,30,8 giorni,ottimo,Y,07/05/2022
+F153, Nord Group srl ,32119865715,ordini@nordgroup.eu,04761105,Barcellona,Spagna,60 giorni,-3,5,SI,18/12/2015
+F020,PONENTE LOGISTICA S.P.A.,42821167342,info@ponentelogistica.com,08215822,	Lecce,ITALIA,30gg,7gg,2,0,n.d.
+F108,Smart Forniture S.P.A.,56363593608,amministrazione@smartforniture.com,0972787341,roma,Italia,30gg,4 giorni,"4,4",SI,mai
+F101,Levante Logistica SNC,05371475957,ordini@levantelogistica.eu,+39 0458364756,Shenzhen,Cina,60,2-8 gg,"1,8",n,08/01/2015
+F179,global supply,77427316465,ordini@globalsupply.eu,0834218058,MONACO DI BAVIERA,Germania,RIBA 60gg,6 giorni,5.0,Si,
+F098,nORD fORNITURE,262088056390,vendite@nordforniture.com,045/2459147,  Verona  ,Italia,Bonifico 30 gg df,4,-1,0,2018-04-19
+F021,nova import sas,IT97276112565,vendite@novaimport.eu,+39 0215456169,Shenzhen,Cina,60 gg,13.0,"3,6",SI,2024-05-05
+F027,  MEGA WHOLESALE,46882637289,info@megawholesale.com,04704391,bari,ITALIA,60 gg,-3,2/5,NO,03/04/2023
+F160,eco export sas,IT89300379182,ordini@ecoexport.it,0890021593,Barcellona,Spagna,Bonifico 30 gg df,subito,"1,7",Si,24-01-19
+F148, Delta Commerciale SNC,48337427813,info@deltacommerciale.com,0619508515,TORINO,Italia,Pagamento anticipato,subito,39%,NO,02/07/2023
+F197,  Omega Service S.a.s.  ,XXXXXXXXXXX,info@omegaservice.eu,00390541417491,lecce,ITALIA, ,11,10,,15-02-19
+F053,alfa wholesale srl,84738738918,info@alfawholesale.com,09280234,  tORINO  ,Italia,60 gg,5-6 gg,44%,true,13/05/2018
+F120,	VEGA COMMERCIALE SAS  ,IT80509633500,info@vegacommerciale.com,-,mILANO,Italia,30 gg,14,28%,SI,2023-03-17
+F105, Alfa Logistica SAS,20218632411,info@alfalogistica.eu,00390415680002,Verona,Italia,30,15.0,10,False,2016-06-11
+F102,  adria import spa  ,IT31314985660,vendite@adriaimport.it,+39 0679042008,ROTTERDAM,Paesi Bassi,30 giorni,7.0,-1,NULL,2020-08-21
+F146,SUD IMPORT SPA,IT26175513198,info@sudimport.eu,00390324096492,Napoli, Italia,60,999,10,SI,n.d.
+F152,  Mega Group S.n.c.  ,IT07076055319,vendite@megagroup.com,042/1715267,Bari,Italia,30,11.0,5,,25/12/2015
+F045,  Ponente Commerciale ,4838362099,info@ponentecommerciale.eu,02511700,	Lugano,Svizzera,30gg,1,10,Si,
+F204,PRIMA SERVICE SAS,90649184265,amministrazione@primaservice.it,00390925987671,Bari,ITALIA,90 gg,999,"3,8",,NULL
+F142,Nord Import SNC,53593843035,info@nordimport.it,0291813520,Bologna,-,anticipato,subito,1,si,23/03/2018
+F100,Alfa Trading SPA,37344032941,venditealfatrading.it,0951977028,nAPOLI,Italia,30gg,8.0,-1,False,2020/07/30
+F147,SMART SERVICE S.A.S.,84417711277,vendite@smartservice.eu,07621421,Napoli,,Bonifico 30 gg df,0,72%,true,2021-07-20
+F064,Nova Group S.a.s.,XXXXXXXXXXX,info@novagroup.eu,076/2008013,BOLOGNA,Italy,30 giorni,2,1.4,0,28/02/2024
+F005,Mediterranea Import,53799075116,ordini@mediterraneaimport.com,00390895341298,torino,Italia,60,7 giorni,2,n,2016-02-25
+F007, levante import s.a.s.  ,61675136134,ordini@levanteimport.eu,00390729190316,napoli,Italia,Pagamento anticipato,999,,1,20-10-20
+F154,Vega Logistica S.n.c.,IT19877268056,info@vegalogistica.eu,00390942505405,bari,Italia,anticipato,-3,ottimo,SI,2015-08-05
+F070,Smart Commerciale S.R.L.,IT59277244079,vendite@smartcommerciale.eu,06896709,	Barcellona ,Spagna,30,-3,95%,n.d.,2018/11/04
+F151,adria import s.a.s.,05679696209,null,00390278129508,rotterdam,NL,30,subito,4.6,1,12/10/2017
+F163,aDRIA eXPORT s.p.a.,40284150787,null,+39 0675518180,Torino,italia,anticipato,3,"2,1",Si,31/05/2018
+F008,Mega Wholesale SNC,28897514026,amministrazione@megawholesale.it,, bologna,italia,60 giorni,subito,4,true,10-08-20
+F014,  Tecno Logistica S.R.L. ,IT 79701 687731,ordini@tecnologistica.eu,039/6885593,Bologna,italia,Bonifico 30 gg df,13gg,-,si,2015-02-12
+F023,delta distribuzione,IT36949235972,ordini@deltadistribuzione.eu,+39 0318545460,LUGANO,svizzera,30 giorni,14,94%,si,26/09/2023
+F173,nOVA wHOLESALE s.R.L.,IT 26265 094393,amministrazione@novawholesale.it,037/5355340,	Roma,Italia,Pagamento anticipato,0,61%,False,24/07/2020
+F333,ECO DISTRIBUZIONE,,vendite@ecodistribuzione.it,03176306,BOLOGNA, Italia,30 gg,subito,10,Y,2017-01-27
+F323,TECNO FORNITURE SNC,95431819614,ordini@tecnoforniture.eu,036/4201627,LECCE,Italia,Bonifico 30 gg df,0,ottimo,n,2017-08-22
+F038,Prima Supply SAS,27246632049,amministrazione@primasupply.it,035/2690210,LUGANO,Svizzera,30 gg,9gg,-1,Y,-
+F009,Eco Service snc,33532650201,amministrazione@ecoservice.com,039/9285347,null,FR,30 giorni,-3,10,si,2018-10-05
+F016,SUD WHOLESALE SAS,4655721014,info@sudwholesale.eu,00390561020143,Milano,Italia,anticipato,subito,-1,SI,01/04/2024
+F011,Tirrena Wholesale,92544992070,info@tirrenawholesale.eu,09490380,roma,Italia,60 gg,2.0,57%,SI,09/07/2021
+F085,Vega Import SNC,743506256090,ordini@vegaimport.it,02307783,SHENZHEN,Cina,30 giorni,9.0,10,no,28/09/2019
+F136,italo service s.n.c.,71889194912,AMMINISTRAZIONE@ITALOSERVICE.COM,+39 0323541791,Monaco di Baviera,Germania,90 gg,-3,78%,Y,2022-10-11
+F109,Tirrena Supply snc,15852515260,amministrazione@tirrenasupply.it,+39 0498916622,rOTTERDAM,Olanda,30gg,7gg,1.7,n,15-12-16
+F021,nova import sas,IT97276112565,vendite@novaimport.eu,+39 0215456169,Shenzhen,Cina,60 gg,13.0,"3,6",SI,2024-05-05
+F007, levante import s.a.s.  ,61675136134,ordini@levanteimport.eu,00390729190316,napoli,Italia,Pagamento anticipato,999,,1,20-10-20
+F118,	tIRRENA tRADING spa  ,82212983751,ordini@tirrenatrading.eu,00390748735418,rOTTERDAM,Paesi Bassi,n.d.,999,"2,9",no,11/01/2020
+F119,Levante Group SNC,62319596349,info@levantegroup.eu,00390315119886,Lecce, Italia,90 gg,13.0,5,n.d.,09/27/2018
+F180,tirrena industries snc,19356076913,ordini@tirrenaindustries.eu,09720619,lugano,Svizzera,60 giorni,8gg,ottimo,no,2035-02-01
+F155,TIRRENA IMPORT,IT36649585853,infotirrenaimport.com,077/7160433,Barcellona,Spagna,RIBA 60gg,0,2,Si,23/09/2024
+F004,Vega Group S.a.s.,41215472803,amministrazione@vegagroup.it,00390280881649,Verona,Italia,90 gg,9 giorni,5/5,Y,04/29/2015
+F128,	sud commerciale,97745880569,ordini@sudcommerciale.com,00390442781511,roma,Italia,60,4gg,88%,1,18/06/2015
+F188,OMEGA LOGISTICA SNC,888359092720,INFO@OMEGALOGISTICA.EU,+39 0664584329,Lecce, Italia,Bonifico 30 gg df,0,3,true,2016-05-12
+F002,Italo Industries snc,IT75749118625,VENDITE@ITALOINDUSTRIES.COM,03849036,Lugano,CH,30 gg,subito,"2,8",true,26/12/2018
+F183,Eco Import S.R.L.,37341993197,ordini@ecoimport.eu,+39 0574876742,Lecce,Italia,N/A,-3,100%,Y,2022-02-12
+F182, Tecno Industries SPA,IT 92734 341014,ordini@tecnoindustries.com,00390720092818, BOLOGNA  ,Italia,30,subito,"1,5",true,20/07/2021
+F145,delta supply s.a.s.,03177372187,info@deltasupply.it,05943503,Barcellona,spagna,60 giorni,11gg,3,0,09/06/2021
+F138,tECNO wHOLESALE s.A.S.,17119653471,vendite@tecnowholesale.eu,+39 0775286957,MILANO,Italia,RIBA 60gg,0,2/5,0,12-09-21
+F328,TECNO GROUP S.A.S.,56181624682,vendite@tecnogroup.com,09921508,ROTTERDAM,Paesi Bassi,30gg,3,88%,n,25/06/2017
+F075,Delta Forniture,26941998493,amministrazione@deltaforniture.it,0358280250,BARI,italia,60 giorni,14gg,1.0,n,10/25/2018
+F116,VEGA DISTRIBUZIONE SRL,IT 28311 839812,vendite@vegadistribuzione.com,0551977556,milano,ITALIA,30,10,10,n,16/09/2020
+F025,TIRRENA INDUSTRIES S.R.L.,IT22001192520,ordini@tirrenaindustries.eu,0219103678,Monaco di Baviera,Germania,30,14.0,1/5,NULL,2018-03-23
+f036,Euro Group S.n.c.,15712590548,info@eurogroup.it,09887470,rOTTERDAM,Paesi Bassi,30gg,7 giorni,"1,2",s,2022-03-05
+F001,Omega Logistica S.a.s.,01815908301,infoomegalogistica.it,08179336,	Barcellona,Spagna,RIBA 60gg,999,ottimo,Y,2015-09-15
+F114,ponente group s.n.c.,66308379388,info@ponentegroup.eu,0811194105,Napoli,Italia,30,14 giorni,4.5,SI,21/03/2018
+F051,	Tecno Commerciale  ,5282149562, ,+39 0744030897,BARI,Italia,30gg,999,4,si,2024-07-16
+F192,Alfa Service S.a.s.,IT 74727 106130,NULL,0723575200,lione,FRANCIA,30,0,"2,5",Y,06/04/2016
+f205,  Levante Service S.a.s.,IT 57793 457384,vendite@levanteservice.com,044/4362529,Barcellona,Spagna,60,11gg,ottimo,NO,18/10/2018
+F068,NOVA FORNITURE SRL,8916269515,,+39 0950719445,Milano,Italia,30 giorni,15 giorni,3/5,no,24 feb 2023
+F087,Eco Logistica spa,IT56752334108,vendite@ecologistica.eu,03730249,Lecce,Italia,,999,-1,1,05 aug 2023
+F103,Italo Group SAS,IT57030783092,amministrazione@italogroup.it,0355475342,bOLOGNA,Italia,60,subito,"1,6",Si,07-03-24
+F081,MEGA SERVICE SRL,33404612979,amministrazione@megaservice.com,0613714682, BARCELLONA,Spagna,60,10 giorni,"3,4",NO,2023-08-18
+F040,eCO iNDUSTRIES s.R.L.,IT 17780 882031, ordini@ecoindustries.it ,0684539188,  Bari ,Italia,RIBA 60gg,subito,1,s,20 jul 2017
+F053,alfa wholesale srl,84738738918,info@alfawholesale.com,09280234,  tORINO  ,Italia,60 gg,5-6 gg,44%,true,13/05/2018
+F176,Italo Commerciale SAS,IT22038482387,info@italocommerciale.com,03636843,Milano,Italia,30,4 giorni,-1,si,2018-08-07
+F203, Italo Logistica S.p.A. ,78355061839,amministrazione@italologistica.com,08295584,lecce,IT,RIBA 60gg,999,3/5,False,-
+F304,ADRIA IMPORT SPA,31314985660,vendite@adriaimport.it,+39 0679042008,ROTTERDAM,Paesi Bassi,30 giorni,7.0,-1,NULL,2020-08-21
+F165,VEGA DISTRIBUZIONE S.R.L.,724255890980,amministrazione@vegadistribuzione.com,069/8164183,Roma,N/A,RIBA 60gg,15.0,-1,,06-08-21
+F198,Global Import spa,IT61835613857,ordini@globalimport.it,+39 0448599663,mONACO DI bAVIERA,Germania,Pagamento anticipato,999,"2,9",, 
+F122,DELTA TRADING SRL,IT47012068155,vendite@deltatrading.it,0287901397,Lugano,Svizzera,90 gg,4-10 gg,1.9,Si,28/01/2017
+F140,adria forniture s.p.a.,87195184512,vendite@adriaforniture.com,00390481474603,Lugano,Svizzera,NULL,-3,2.6,False,24/06/2016
+F202,MEGA TRADING,2549442196,info@megatrading.eu,00390612684619,bari,Italia,n.d.,-3,3,False,2015/01/13
+F079,LEVANTE DISTRIBUZIONE SRL,89476083028, vendite@levantedistribuzione.it ,0567585827,Barcellona,Spagna,30 gg,1-10 gg,10,SI,29-08-22
+F059,tECNO dISTRIBUZIONE s.R.L.,IT65039666304,vendite@tecnodistribuzione.it,n.d.,ROMA,Italia,anticipato,15 giorni,10,,30/06/2021
+F397,NOVA TRADING S.R.L.,32655239948,vendite@novatrading.com,0465436458,lugano,Svizzera,Bonifico 30 gg df,999,"3,3",0,09/04/2022
+F078,nOVA dISTRIBUZIONE srl,726377921790,ORDINI@NOVADISTRIBUZIONE.IT,0595080325,Rotterdam,Paesi Bassi,,subito,ottimo,Si,2016/08/09
+F069,	ALFA FORNITURE S.A.S.,98149119333,infoalfaforniture.it,0723163449, Bologna  ,italia,30,5-7 gg,ottimo,1,12/12/2022
+F024,  Italo Export SRL,IT 78066 717231,info@italoexport.it,00390617050844,,Francia,Pagamento anticipato,15.0,4.9,n,10/08/2022
+F055,nova commerciale spa,IT98155834299,ordini@novacommerciale.com,078/7449326,Rotterdam,Paesi Bassi,RIBA 60gg,subito,4,s,2035-02-01
+f139,Ponente Forniture S.a.s.,23459915095,vendite@ponenteforniture.eu,00390754327067,Rotterdam,NL,-,3-7 gg,null,False,2022-03-09
+F391,TIRRENA WHOLESALE,92544992070,info@tirrenawholesale.eu,09490380,roma,Italia,60 gg,2.0,57%,SI,09/07/2021
+F191,euro trading spa,9567599342,vendite@eurotrading.eu,00390395849920,-,italia,30 gg,-3,,Y,2019-07-16
+F088,sud distribuzione spa,IT23243001113,null,074/9160633,MILANO,Italia,30 gg,4-8 gg,10,,2016/09/22
+F035,Prima Group S.n.c.,IT05446290429,vendite@primagroup.com,+39 0961235979,LIONE,Francia,60 giorni,999,ottimo,False,2018-08-07
+F123, Italo Trading SAS ,23101612370,vendite@italotrading.eu,00390263268680,napoli,Italia,anticipato,0,10,NO,05-04-19
+F049,adria industries,10535166934,amministrazione@adriaindustries.com,n.d., Torino , Italia,60 giorni,7 giorni,5,Si,13-07-16
+F031,Italo Wholesale,73817181463,vendite@italowholesale.com,+39 0972692316,TORINO,Italia,-,12,57%,s,07-07-15
+F164,  alfa supply,IT92807463570,amministrazione@alfasupply.com,02500227,Lugano,CH,RIBA 60gg,999,"2,8",SI,2023/02/22
+F175,Ponente Industries SPA,IT09532194771,info@ponenteindustries.com,07580333,lione,Francia,90 gg,999,4/5,n,11-07-23
+F158, aDRIA lOGISTICA ,IT 31469 949401,ordini@adrialogistica.eu,,Bari,Italia,Pagamento anticipato,-3,"1,2",Y,2020-09-01
+F096,Levante Wholesale S.R.L.,XXXXXXXXXXX,N/A,00390292729902, Barcellona  ,Spagna,60 giorni,6.0,"2,4",1,2018/03/25
+F012, Eco Forniture spa ,IT77642656515,-,00390511573248, Milano ,Italia,30,3-6 gg, ,0,10/26/2024
+F168,	Delta Export SPA ,62008301462,info@deltaexport.it,+39 0434121424,LIONE,Francia,90 gg,1-6 gg,1,Y,22/06/2015
+F013,omega export,IT 46347 861221,vendite@omegaexport.eu,077/0392668,bari,Italia,anticipato,0,3/5,NO,06/10/2021
+F189,Euro Import SPA,IT45915475946,ordini@euroimport.it,+39 0432928426, SHENZHEN,Cina,Bonifico 30 gg df,subito,-1,no,-
+F200,Adria Wholesale S.P.A.,N/A,vendite@adriawholesale.eu,06532941,Verona,IT,Bonifico 30 gg df,999,97%,False,2019/08/25
+F074,TECNO FORNITURE SNC,IT95431819614,ordini@tecnoforniture.eu,036/4201627,LECCE,Italia,Bonifico 30 gg df,0,ottimo,n,2017-08-22
+F190,tirrena commerciale,,info@tirrenacommerciale.it,0230212004,Verona,ITALIA,Bonifico 30 gg df,-3,-1,si,2017/08/07
+F058,Adria Service,N/A,amministrazione@adriaservice.eu,00390627698571,BARCELLONA,spagna,30 giorni,0,4,Y,08/05/2024
+F161,vega trading sas,0354842311,info@vegatrading.eu,n.d.,Shenzhen,Cina,30 giorni,8gg, ,0,29/01/2017
+F026,tirrena service,49060681570,ordini@tirrenaservice.eu,00390387113575,rotterdam,Paesi Bassi,anticipato,3,-1,Si,03/26/2016
+F006,Mega Logistica S.r.l.,IT57986828288,vendite@megalogistica.it,+39 0433131984,Lione,Francia,anticipato,6.0,5/5,1,11/13/2021
+F030,Mega Group SNC,IT82753464627,amministrazione@megagroup.com,065/2992691,Shenzhen,Cina,30,0,-1,NO,21-10-17
+f135, Euro Distribuzione S.a.s.,92654328842,info@eurodistribuzione.eu,05593645,Lecce,IT,30,subito,1,Si,31-01-21
+F137,MEGA FORNITURE SRL,IT84882688123,ordini@megaforniture.eu,0241967589,shenzhen,Cina,anticipato,13 giorni,n.d.,,2015-05-23
+F137,MEGA FORNITURE SRL,IT84882688123,ordini@megaforniture.eu,0241967589,shenzhen,Cina,anticipato,13 giorni,n.d.,,2015-05-23
+F150,nova trading snc,11615034980,amministrazione@novatrading.it,09426600,LIONE,Francia,30 giorni,8,1,s,11-03-17
+F106,ponente service s.a.s.,44604753754,info@ponenteservice.com,054/1380756,Lugano,Svizzera,90 gg,5.0,10,no,10 jan 2018
+F141,	mediterranea trading sas,72672567281,info@mediterraneatrading.com,0924110637,LECCE,Italia,60,999,74%,no,2017-10-11
+F143,Italo Distribuzione snc,61883631590,vendite@italodistribuzione.eu,0481062589,milano,Italia,60,0,36%,no,20/06/2018
+F067,Omega Wholesale S.a.s.,05138814750,vendite@omegawholesale.it,06506616,Roma,ITALIA,90 gg,-3,4.1,true,24/05/2020
+F186,	Mega Industries S.n.c. ,IT50040242815,info@megaindustries.com,066/4744904, MONACO DI BAVIERA,Germania,30,subito,3.3,s,2015-11-20
+F039,GLOBAL EXPORT S.P.A.,IT28323911974,ordini@globalexport.eu,00390588239956,	Napoli ,Italy,90 gg,999,10,si,31-10-16
+F194,Vega Forniture SAS,70983436141,ordini@vegaforniture.it,064/6961529, Lecce,italia,Pagamento anticipato,subito,"3,4",null,2023-08-05
+F054,Tecno Export srl,5885709515,info@tecnoexport.it,,Torino, Italia,60 giorni,4-6 gg,1,true,26/02/2015
+F095,Prima Import spa,IT65964423712,amministrazione@primaimport.it,n.d.,nAPOLI,ITALIA,60,subito,5,Y,2024-06-03
+F010,	pRIMA dISTRIBUZIONE s.P.a.,96572492086,ordini@primadistribuzione.eu,+39 0288391409,BARCELLONA,Spagna,anticipato,1-6 gg,1/5,NO,28/01/2024
+F022,	pONENTE iMPORT s.N.C.  ,03262456241,info@ponenteimport.eu,09845150,lecce,n.d.,30,999,4,,31/02/2020
+F057,ponente wholesale srl,IT30290119520,info@ponentewholesale.eu,00390238484536, Torino,Italia,90 gg,0,-1,si,28-08-19
+F156,LEVANTE EXPORT SAS,32881660062,info@levanteexport.eu,067/7440596,napoli,ITALIA,Pagamento anticipato,999,1,no,2018-07-24
+F048,  Mediterranea Distribuzione SNC,8431413426,vendite@mediterraneadistribuzione.eu,+39 0447114024, SHENZHEN  ,Cina,RIBA 60gg,subito,10,null,22-01-22
+F071,mediterranea group s.a.s.,94725831567,amministrazionemediterraneagroup.com,,Bologna,ITALIA,RIBA 60gg,7,4,,20/10/2021
+F115,sud industries sas,86118747761,ordini@sudindustries.com,077/4454896, BARCELLONA  ,Spagna,Pagamento anticipato,7,ottimo,SI,19-05-15
+F104,Eco Distribuzione,,vendite@ecodistribuzione.it,03176306,BOLOGNA, Italia,30 gg,subito,10,Y,2017-01-27
+F063,Smart Service snc,6408309409,amministrazione@smartservice.com,0668796468,Shenzhen,CINA,Bonifico 30 gg df,-3,-1,no,20-07-24
+F177,Omega Import srl,2604691439,info@omegaimport.it,+39 0433368401,Lione,Francia,30 gg,0,73%,true,01/04/2024
+F201, gLOBAL sUPPLY  ,IT 69654 999547,amministrazione@globalsupply.it,0259003028,	Barcellona,Spagna,60,2,"1,0",False,2019-03-13
+F124, tECNO gROUP s.A.S.,IT 56181 624682,vendite@tecnogroup.com,09921508,ROTTERDAM,Paesi Bassi,30gg,3,88%,n,25/06/2017
+F059,tECNO dISTRIBUZIONE s.R.L.,IT65039666304,vendite@tecnodistribuzione.it,n.d.,ROMA,Italia,anticipato,15 giorni,10,,30/06/2021
+F017,Alfa Export S.R.L.,IT91031776467,VENDITE@ALFAEXPORT.IT,06303091,Lione,Francia,60 giorni,3-8 gg,"2,6",s,11/12/2015
+F196,LEVANTE SERVICE SPA,n.d.,info@levanteservice.eu,05308092,barcellona,Spain,60 gg,-3,4.9,n.d.,2018-07-16
+F125,Adria Commerciale SPA,n.d.,ORDINI@ADRIACOMMERCIALE.EU,00390417557660,Torino,Italia,30 giorni,-3,"3,2",False,22-08-18
+F174,Omega Forniture spa,IT45139307632,ordini@omegaforniture.com,00390422616654,ROMA,Italy,60,3gg,4/5,Si,03/11/2019
+F172, nOVA fORNITURE  ,52010869862,amministrazione@novaforniture.it,076/9095991,	Shenzhen ,CINA,RIBA 60gg,-3,90%,1,09/15/2019
+F133, Omega Industries SRL ,IT 46928 507158,amministrazione@omegaindustries.eu,06441803,Roma,ITALIA,30 gg,-3,2/5,0,04/07/2024
+F047,Prima Commerciale srl,05232134828,ordini@primacommerciale.it,056/4378593,  Bari,Italia,RIBA 60gg,8gg,96%,NO,2023/04/03
+f019,Tecno Trading SAS,XXXXXXXXXXX,vendite@tecnotrading.eu,+39 0397652008,bARCELLONA,spagna,Pagamento anticipato,999,ottimo,SI,14/03/2024
+f110,tIRRENA dISTRIBUZIONE spa,44389937592,amministrazione@tirrenadistribuzione.com,,Bari,Italia,60 gg,15.0,3.9,1,00/00/0000
+F373,SUD DISTRIBUZIONE SPA,23243001113,null,074/9160633,MILANO,Italia,30 gg,4-8 gg,10,,2016/09/22
+F042,Nova Industries,IT 18246 944318,vendite@novaindustries.eu,059/7289485,verona,italia,90 gg,-3,-1,False,2018-08-26
+F157,mega distribuzione snc,72529253332,amministrazione@megadistribuzione.it,,  Roma  ,Italia,RIBA 60gg,0,ottimo,no,03/15/2019
+F195,lEVANTE cOMMERCIALE s.P.a.,IT13671712553,info@levantecommerciale.eu,0569045640,Lione,FR,Pagamento anticipato,1-7 gg,1/5,si,2016/07/26
+F092,  nord export s.n.c. ,56642385052,ordini@nordexport.eu,028/3520354, Lugano,Switzerland,Pagamento anticipato,12gg,-1,NO,28-02-22
+F034,Nord Supply S.R.L.,877400000910,,0991731644,Bari, Italia,60,12 giorni,ottimo,,2024-04-12
+F089,pRIMA iNDUSTRIES srl,79620393173,vendite@primaindustries.eu,+39 0214147962,Rotterdam,Paesi Bassi,60 giorni,subito,2,0,NULL
+F062, PONENTE EXPORT ,IT 83944 758979,ordini@ponenteexport.it,+39 0780320923,ROMA,Italia,RIBA 60gg,4 giorni,-1,,29-01-20
+F094,  euro forniture spa,08387283227,vendite@euroforniture.it,00390691088176, Lugano,Svizzera,60 gg,4,10,NO,2024/05/17
+F033, Mediterranea Wholesale S.P.A.  ,XXXXXXXXXXX,amministrazione@mediterraneawholesale.it,02768088,Rotterdam,Paesi Bassi,30,999,4,n,05/13/2016
+F169,euro industries sas,IT42803407570, amministrazione@euroindustries.eu ,08971908,LIONE,France,anticipato,999,2/5,Si,26-11-22
+F134,Global Logistica S.P.A.,58406214131,vendite@globallogistica.com,00390647596755, barcellona ,Spagna,30gg,11,ottimo,0,2022/04/28
+F127,Tecno Supply snc,279348792340,info@tecnosupply.it,+39 0587523902,null,Italia,60,2 giorni,54%,si,29/06/2017
+F113,  DELTA WHOLESALE S.P.A.  ,25517124248,info@deltawholesale.it,+39 0236498650,	monaco di baviera ,Germania,60 gg,-3,-1,no,07/12/2018
+F044, OMEGA TRADING ,36000497484,vendite@omegatrading.eu,086/2280164,lECCE,Italia,Bonifico 30 gg df,6,ottimo,1,2022-10-03
+F184,Mediterranea Industries SNC,89171478089,ordini@mediterraneaindustries.it,0422117773,torino,Italia,60 giorni,9,"4,7",1,mai
+F082,GLOBAL FORNITURE S.A.S.,IT31355490311,N/A,022/9281637,rotterdam,Paesi Bassi,30gg,11gg,-1,no,
+F132,	mEDITERRANEA cOMMERCIALE s.A.S. ,29150390204,amministrazione@mediterraneacommerciale.it,+39 0599822825,Verona,Italia,Bonifico 30 gg df,7gg,64%,Si,mai
+F076,Mega Import S.r.l.,58541792679,amministrazione@megaimport.eu,,  Shenzhen ,CN,n.d.,13,10,1,14/01/2022
+F167,aDRIA sUPPLY s.r.l.,IT 87080 061465,ordini@adriasupply.com,00390942883690,Verona,Italy,90 gg,-3,38%,Si,null
+F028, Alfa Import S.a.s.,00663847024,vendite@alfaimport.it,n.d., Verona ,Italy,Pagamento anticipato,12gg,10,False,28-07-22
+F181,Mega Export snc,26302188842,vendite@megaexport.com,06266889,Lecce, Italia,Pagamento anticipato,12 giorni,4.9,no,2015-05-10
+f050,PRIMA TRADING S.R.L.,62297631405,info@primatrading.it,0636456072,Lugano,Switzerland,Pagamento anticipato,subito,2.9,true,2017/02/16
+F066,Tirrena Group spa,IT82734382238,info@tirrenagroup.it,+39 0265658903,milano,Italia,60 gg,11,4/5,Si,19-12-23
+F023,delta distribuzione,IT36949235972,ordini@deltadistribuzione.eu,+39 0318545460,LUGANO,svizzera,30 giorni,14,94%,si,26/09/2023
+F043,Nova Trading S.R.L.,IT32655239948,vendite@novatrading.com,0465436458,lugano,Svizzera,Bonifico 30 gg df,999,"3,3",0,09/04/2022
+F093,Ponente Distribuzione,60333585190,vendite@ponentedistribuzione.it,+39 0822393048,verona, Italia, ,3-10 gg,ottimo,true,31/02/2020
+F187,Delta Group,18562512728,info@deltagroup.com,0568585937,lione,Francia,RIBA 60gg,11.0,ottimo,False,10/28/2019
+F073,smart supply snc,2970852380,null,00390288822493,lecce,Italia,anticipato,subito,10,False,2024-05-21
+F072, lEVANTE sUPPLY sas  ,46189574454,vendite@levantesupply.eu,029/7858973, ,Italia,Pagamento anticipato,3-6 gg,97%,Si,2023-05-20
+F199,Tecno Industries S.n.c.,21662025332,VENDITE@TECNOINDUSTRIES.IT,086/6620413,BOLOGNA,Italia,60 giorni,11gg,10,Si,2015/08/17
+F111,GLOBAL GROUP,004341879920,vendite@globalgroup.com,+39 0936401531,Lugano,svizzera,30 giorni,-3,67%,1,25-07-20
+F129,Adria Trading SAS,75635077338,info@adriatrading.eu,0590635702,roma,Italia,30 gg,0,10,no,
+F170,nord logistica spa,14947461400,amministrazione@nordlogistica.eu,0666228222,Torino,Italia,Pagamento anticipato,1-10 gg,3/5,0,mai
+F193,Smart Wholesale S.p.A.,-,ordini@smartwholesale.it,0428783154,bOLOGNA,italia,90 gg,4.0,ottimo,,n.d.
+F126,Sud Group,29681345483,info@sudgroup.eu,00390593141528,Shenzhen,Cina,30 gg,0,-1,s,2024/11/02
+F144,Italo Supply,0298399663,amministrazione@italosupply.eu,00390470216200,  TORINO,Italia,30 giorni,4.0,-1,si,00/00/0000
+F131,Prima Distribuzione S.p.A.,17736432897,ordini@primadistribuzione.it,0554846659,mILANO,Italia,30 giorni,0,5,1,11-10-19
+F112,  SMART INDUSTRIES S.R.L. ,45174699356,amministrazione@smartindustries.com,04841076,bari,italia,N/A,-3,ottimo,Si,2023-02-04
+F090,	mediterranea service s.n.c. ,IT 78411 196671,ordini@mediterraneaservice.com,00390966156250, bARCELLONA,Spagna,30 gg,subito,2,NO,12-08-23
+F100,Alfa Trading SPA,37344032941,venditealfatrading.it,0951977028,nAPOLI,Italia,30gg,8.0,-1,False,2020/07/30
+F083,Eco Trading SPA,IT07771178716,vendite@ecotrading.it,0869091496,Bari,IT,RIBA 60gg,subito,1/5,si,2017-09-08
+F052,  Sud Supply  ,40795937185,vendite@sudsupply.eu,04638705,Bologna, Italia,Bonifico 30 gg df,-3,10,1,2021-03-22
+F130,Tecno Service,94406948042,ordini@tecnoservice.eu,0529662429,VERONA,IT,30 giorni,0,"1,0",Si,2023-09-20
+F099,Alfa Distribuzione SAS,51074314453,vendite@alfadistribuzione.eu,00390671232286,Barcellona,Spagna,30 gg,1 giorni,-1,no,17-03-20
+F383,LEVANTE IMPORT S.A.S.,61675136134,ordini@levanteimport.eu,00390729190316,napoli,Italia,Pagamento anticipato,999,,1,20-10-20
+F029, Global Service snc,97837805856,vendite@globalservice.it,04626795,rOMA,Italia,Pagamento anticipato,-3,ottimo,true,18/05/2017
+F185,  Nord Wholesale,IT 98156 087260,info@nordwholesale.com,00390432725096,NAPOLI,Italia,30gg,7.0,10,1,04/04/2021
+f060,	Nord Service SNC,IT 27616 565093,info@nordservice.it,058/7155164,null,Italia, ,1-6 gg, ,1,31 may 2017
+F032,  smart trading s.a.s.  ,IT 88346 564804,vendite@smarttrading.com,00390677971076,Shenzhen,Cina,30 gg,-3,ottimo,,13 aug 2020
+F162,Ponente Supply S.p.A.,72055802310,info@ponentesupply.it,0610942370, Napoli  ,italia,90 gg,2 giorni,4,s,10/04/2015
+F003,NORD COMMERCIALE,65632122330,ordini@nordcommerciale.com,N/A,  LIONE ,FR,Bonifico 30 gg df,12.0,ottimo,si,24/02/2016
+F037,pRIMA sUPPLY s.P.a.,IT04508004870,amministrazione@primasupply.it,,  Napoli  ,Italia,90 gg,999,2,Y,2016/07/26
+F178,  Vega Export S.r.l.  ,05926253628,amministrazione@vegaexport.eu,0313513169,Monaco di Baviera,Germania,30gg,999,36%,Y,08/12/2021
+F121,Adria Group S.a.s.,49905483969,info@adriagroup.com,049/3657557,Roma,Italia,90 gg,5,1,s,31/07/2021
+F065,Delta Service SAS,IT60443668443,ordini@deltaservice.eu,099/8090025,LUGANO,svizzera,60,0,1.8,no,12/31/2023
+F077,Smart Group S.a.s.,5572189486,info@smartgroup.it,+39 0861559957,ROMA,Italia,anticipato,1gg,31%,true,16-08-23
+F166,Italo Import SPA,IT09479218512,INFO@ITALOIMPORT.EU,09417759,lUGANO,Svizzera,Pagamento anticipato,1-9 gg,ottimo,n,27-04-22
+F368,ITALO SERVICE S.N.C.,71889194912,AMMINISTRAZIONE@ITALOSERVICE.COM,+39 0323541791,Monaco di Baviera,Germania,90 gg,-3,78%,Y,2022-10-11
+F086,	Euro Commerciale srl  ,41422618648,vendite@eurocommerciale.it,07800478,Milano,Italia,30 gg,999,-1,true,01/05/2020
+F041,omega commerciale,IT 56956 805825,vendite@omegacommerciale.eu,07246331,rotterdam,Paesi Bassi,Bonifico 30 gg df,3,1.9,SI,31/02/2020
+F018,	MEDITERRANEA EXPORT SNC  ,NULL,ordinimediterraneaexport.com,06430107,Bari,Italia,anticipato,2-6 gg,1.0,s,2017/11/30
+F091, Nova Service SRL,46732947632,vendite@novaservice.it,0743275683, ROMA  ,Italia,60 giorni,0,2.3,1,2018-05-20
+F056,  Omega Supply SNC ,35865055785,"ordini@omegasupply,com",,Lugano,Switzerland,,10 giorni,-1,SI,2024-05-27
+F159,LEVANTE FORNITURE,29806023918,ordini@levanteforniture.it,+39 0915636676,Lione,FR,n.d.,4-6 gg,ottimo,s,2023-07-25
+F107,Smart Export Srl,IT35020663258,NULL,061/2717211,barcellona,Spagna,60 gg,0,1/5,no,2020-04-14
+F181,Mega Export snc,26302188842,vendite@megaexport.com,06266889,Lecce, Italia,Pagamento anticipato,12 giorni,4.9,no,2015-05-10
+F149,NORD INDUSTRIES SAS,IT70238544057,vendite@nordindustries.com,+39 0625223457,NAPOLI,italia,60 gg,15 giorni,5,Y,03/11/2024
+F061,oMEGA sUPPLY s.A.S.,48564665866,vendite@omegasupply.com,0495225563,Lugano,Svizzera,anticipato,999,5.0,s,2015-01-04
+F080,Euro Supply srl,26029474244,info@eurosupply.com,+39 0469442289,Barcellona,Spagna,30gg,0,-1,False,22/10/2016
+F046,ADRIA DISTRIBUZIONE,79600369070,ORDINI@ADRIADISTRIBUZIONE.IT,0452250868, TORINO  ,ITALIA,Pagamento anticipato,subito,ottimo,False,26/01/2019
+F015,tECNO iMPORT s.A.S.,614365370560,VENDITE@TECNOIMPORT.IT,0677763630,BARCELLONA,Spagna,30 gg,13gg,99%,no,04/07/2015
+F365,MEDITERRANEA LOGISTICA S.R.L.,26307661292,n.d.,0315236133,  Shenzhen  ,n.d.,30,8 giorni,ottimo,Y,07/05/2022
+F171,Global Wholesale S.P.A.,01975092119, info@globalwholesale.com ,0743817034,bologna,Italia,60,5.0,4,Y,28/03/2017
