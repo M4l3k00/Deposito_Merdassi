@@ -24,5 +24,12 @@ print("=============================================FORNITORI===================
 #ELIMINAZIONE DEI DUPLICATI PER FORNITORI
 ds_fornitori = ds_fornitori.drop_duplicates()
 esplora_data_set(ds_fornitori)  
-    
+
+
+
+
+#Rendere tempi di consegna degli interi 
+#Converti la colonna desiderata in interi
+
+ds_fornitori['tempo_consegna_giorni'] = ds_fornitori['tempo_consegna_giorni'].astype(int)
     
