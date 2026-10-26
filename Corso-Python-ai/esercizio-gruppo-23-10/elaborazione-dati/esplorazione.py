@@ -48,8 +48,8 @@ ds_fornitori.to_csv('Corso-Python-ai/esercizio-gruppo-23-10/dati-sporchi/fornito
 
 def converti_in_intero_pulito(ds_fornitori, 'tempo_consegna_giorni'):
     ds_fornitori['tempo_consegna_giorni'] = ds_fornitori['tempo_consegna_giorni'].astype(int)
-    print(ds_fornitori['tempo_consegna_giorni'].head(10))
-    return ds_fornitori
+    #print(ds_fornitori['tempo_consegna_giorni'].head(10))
+    #return ds_fornitori
 
 #trasformare il rating facendolo limitante da 1 a 5 in interi con stringhe eliminate
 # 1. Converte la colonna in numerico: eventuali stringhe o testo diventano NaN (valori mancanti)
